@@ -1,0 +1,6 @@
+*.aux
+*.log
+*.dvi
+*.synctex.gz
+old\ versions/
+*.blg

@@ -69,18 +69,26 @@
 % formatting things that are not yet working:
 %\DeclareFieldFormat[article]{journal}{\mkbibnorm{#1}} % no italics
 %\DeclareFieldFormat[article]{year}{{#1},} no brackets, just "2013,"
-% all names in format Smith, X.X.
 % boldify my own name
 
+% this makes all the names show up as last, first.
+\DeclareNameAlias{sortname}{last-first}
+
 \DeclareFieldFormat{url}{\url{#1}}
+% articles
 \DeclareFieldFormat[article]{pages}{#1}
-\DeclareFieldFormat[inproceedings]{pages}{\lowercase{pp.}#1}
-\DeclareFieldFormat[incollection]{pages}{\lowercase{pp.}#1}
 \DeclareFieldFormat[article]{number}{\mkbibparens{#1}}
 \DeclareFieldFormat[article]{title}{\MakeCapital{#1}}
 \DeclareFieldFormat[article]{title}{\mkbibquote{#1}}
+\DeclareFieldFormat[article]{journal}{#1}
+\DeclareFieldFormat[article]{year}{#1}
 \DeclareFieldFormat[article]{url}{}
-\DeclareFieldFormat[inproceedings]{title}{#1}
+% conf proc
+\DeclareFieldFormat[inproceedings]{pages}{#1}
+\DeclareFieldFormat[inproceedings]{title}{\mkbibquote{#1}}
+\DeclareFieldFormat[inproceedings]{booktitle}{#1}
+%
+\DeclareFieldFormat[incollection]{pages}{\lowercase{pp.}#1}
 \DeclareFieldFormat{shorthandwidth}{#1}
 \DeclareFieldFormat{extrayear}{}
 
@@ -88,10 +96,11 @@
 \usepackage{xpatch}
 \xpatchbibmacro{volume+number+eid}{\setunit*{\adddot}}{}{}{}
 
-% Remove In: for an article.
+% Remove In: for an article. TODO: change to "at" for conferences?
 \renewbibmacro{in:}{%
   \ifentrytype{article}{}{%
   \printtext{\bibstring{in}\intitlepunct}}}
+
 
 % Bibliography categories
 \def\makebibcategory#1#2{\DeclareBibliographyCategory{#1}\defbibheading{#1}{\section*{#2}}}

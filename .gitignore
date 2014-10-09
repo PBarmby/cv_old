@@ -4,3 +4,7 @@
 *.synctex.gz
 old\ versions/
 *.blg
+*~
+*.bcf
+*.out
+*.run.xml

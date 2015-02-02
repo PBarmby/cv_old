@@ -97,15 +97,17 @@
 \DeclareFieldFormat{shorthandwidth}{#1}
 \DeclareFieldFormat{extrayear}{}
 
-% compelte hack to make "(2012)" become "2012," 
+% complete hack to make "(2012)" become "2012," 
+% attempted to put year after title rather than before -- but too much work
 \renewcommand{\bibopenparen}{\addcomma\addspace}
 \renewcommand{\bibcloseparen}{\addcomma\addspace}
 
-% No dot before number of articles
+% No dot before number of articles (no idea what this does - PB)
 \usepackage{xpatch}
 \xpatchbibmacro{volume+number+eid}{\setunit*{\adddot}}{}{}{}
 
-% Remove In: for an article. TODO: change to "at" for conferences?
+% Remove In: for an article. Couldn't figure out how to change to "at"
+% for conferences, gave up.
 \renewbibmacro{in:}{%
   \ifentrytype{article}{}{%
   \printtext{\bibstring{in}\intitlepunct}}}

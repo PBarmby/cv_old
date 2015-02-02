@@ -97,6 +97,10 @@
 \DeclareFieldFormat{shorthandwidth}{#1}
 \DeclareFieldFormat{extrayear}{}
 
+% compelte hack to make "(2012)" become "2012," 
+\renewcommand{\bibopenparen}{\addcomma\addspace}
+\renewcommand{\bibcloseparen}{\addcomma\addspace}
+
 % No dot before number of articles
 \usepackage{xpatch}
 \xpatchbibmacro{volume+number+eid}{\setunit*{\adddot}}{}{}{}

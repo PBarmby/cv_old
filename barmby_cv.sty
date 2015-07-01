@@ -97,6 +97,43 @@
 \DeclareFieldFormat{shorthandwidth}{#1}
 \DeclareFieldFormat{extrayear}{}
 
+% from http://tex.stackexchange.com/questions/46868/biblatex-sorting-by-date
+% doesn't work at present
+%\DeclareSortingScheme{dymnt}{
+%  \sort{
+%    \field{presort}
+%  }
+%  \sort[final]{
+%    \field{sortkey}
+%  }
+%  \sort[direction=descending]{
+%    \field{sortyear}
+%    \field{year}
+%    \literal{9999}
+%  }
+%  \sort[direction=descending]{
+%    \field[padside=left,padwidth=2,padchar=0]{month}
+%    \literal{99}
+%  }
+%  \sort{
+%    \name{sortname}
+%    \name{author}
+%    \name{editor}
+%    \name{translator}
+%    \field{sorttitle}
+%    \field{title}
+%  }
+%
+%  \sort[direction=descending]{
+%    \field[padside=left,padwidth=4,padchar=0]{volume}
+%    \literal{9999}
+%  }
+%  \sort{
+%    \field{sorttitle}
+%  }
+%}
+
+
 % complete hack to make "(2012)" become "2012," 
 % attempted to put year after title rather than before -- but too much work
 \renewcommand{\bibopenparen}{\addcomma\addspace}

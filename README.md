@@ -8,3 +8,4 @@ Used and modified R Hyndman's CV style (see .sty file for link).
 I grabbed my pubs in BibTeX file from ADS, and the thing sort of works, but there are some 
 minor details still to work out wih biblatex to get the references in the usual astronomy style. 
 
+Note to self: sometimes running biber from the command line works where running it from TeXShop doesn't.

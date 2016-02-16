@@ -67,13 +67,12 @@
 
 % Bibliography formatting
 
-\usepackage[sorting=ydnt,bibstyle=authoryear-comp,defernumbers=true,maxnames=20,firstinits=true, uniquename=init,dashed=false,doi=false,isbn=false,eprint=false,backend=biber]{biblatex}
+\usepackage[sorting=ydnt,bibstyle=authoryear-comp,defernumbers=true,maxnames=20,firstinits=true, uniquename=init,dashed=false,doi=true,isbn=false,eprint=false,backend=biber]{biblatex}
 
 
 % formatting things that are not yet working:
 %\DeclareFieldFormat[article]{journal}{\mkbibnorm{#1}} % no italics
 %\DeclareFieldFormat[article]{year}{{#1},} no brackets, just "2013,"
-% boldify my own name
 
 % this makes all the names show up as last, first.
 \DeclareNameAlias{sortname}{last-first}
@@ -176,7 +175,10 @@
 {\endlist}
 {\bibitem}
 
-\newenvironment{publications}{\section{\LARGE Publications}\label{papersstart}\vspace*{0.2cm}
+\newenvironment{publications}{\section{\LARGE Publications}\label{papersstart}
+\textit{Author names in italics are Western University trainees.} 
+{\tt DOIs are linked to papers.}
+\vspace*{0.2cm}
 \titlespacing{\section}{0pt}{1.5ex}{1ex}\itemsep=0.00cm
 }{\label{papersend}\addtocounter{sumpapers}{-1}\refstepcounter{sumpapers}\label{sumpapers}}
 

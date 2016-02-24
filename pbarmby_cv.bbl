@@ -116,7 +116,7 @@
       \verb{eprint}
       \verb 1512.05768
       \endverb
-      \keyw{ref,stars: formation,ISM: molecules,galaxies: ISM,galaxies: spiral}
+      \keyw{ref,ar15,stars: formation,ISM: molecules,galaxies: ISM,galaxies: spiral}
     \endentry
     \entry{2016ravandi}{article}{}
       \name{labelname}{9}{}{%
@@ -191,7 +191,7 @@
       \verb{eprint}
       \verb 1512.06675
       \endverb
-      \keyw{ref,methods: observational,methods: statistical,galaxies: ISM,galaxies: spiral,galaxies: star formation,galaxies: stellar content}
+      \keyw{ref,ar15,methods: observational,methods: statistical,galaxies: ISM,galaxies: spiral,galaxies: star formation,galaxies: stellar content}
     \endentry
     \entry{2016vulic}{article}{}
       \name{labelname}{3}{}{%
@@ -437,50 +437,6 @@
       \endverb
       \keyw{ref}
     \endentry
-    \entry{2015hart}{article}{}
-      \name{labelname}{9}{}{%
-        {{uniquename=0,hash=79ba8500c1f41b05c7749d2204b3b90e}{{Hart}}{H\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=f7feacd2883081861cf21afcf1dc058b}{{LeBauer}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=93fbd09090e6934dc3de9c6eaf8ddd6a}{{Michonneau}}{M\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=31220963b898be61f4d31a09eb538653}{{Mount}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=73621490f7d20daca32407051520a8ee}{{Poisot}}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c0e8c0b4e5994da7d84edcf2ff46330f}{{Woo}}{W\bibinitperiod}{K.H.}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8db0e7711e1ff2d654bd6bba512d749a}{{Zimmerman}}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=88d043bfc8d1657c906bd1dc505c0d4d}{{Hollister}}{H\bibinitperiod}{J.W.}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{9}{}{%
-        {{uniquename=0,hash=79ba8500c1f41b05c7749d2204b3b90e}{{Hart}}{H\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=f7feacd2883081861cf21afcf1dc058b}{{LeBauer}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=93fbd09090e6934dc3de9c6eaf8ddd6a}{{Michonneau}}{M\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=31220963b898be61f4d31a09eb538653}{{Mount}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=73621490f7d20daca32407051520a8ee}{{Poisot}}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c0e8c0b4e5994da7d84edcf2ff46330f}{{Woo}}{W\bibinitperiod}{K.H.}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8db0e7711e1ff2d654bd6bba512d749a}{{Zimmerman}}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=88d043bfc8d1657c906bd1dc505c0d4d}{{Hollister}}{H\bibinitperiod}{J.W.}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{72bae73461bfd642b3edf9285711a19c}
-      \strng{fullhash}{72bae73461bfd642b3edf9285711a19c}
-      \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Ten simple rules for digital data storage}}
-      \field{eprinttype}{PeerJ}
-      \field{journaltitle}{PLoS Comp. Biol.}
-      \field{month}{12}
-      \field{title}{{Ten simple rules for digital data storage}}
-      \field{year}{2015}
-      \field{pages}{submitted}
-      \verb{doi}
-      \verb 10.7287/peerj.preprints.1448v1
-      \endverb
-      \verb{eprint}
-      \verb P3:e1804
-      \endverb
-      \keyw{submit}
-    \endentry
     \entry{2015hemachandra}{article}{}
       \name{labelname}{9}{}{%
         {{uniquename=0,hash=57ce209cf334c14605c5191947e87aa9}{{\mkbibemph{{Hemachandra},\bibnamedelimb D.}}}{{\mkbibemph{{Hemachandra}, D.}}\bibinitperiod}{}{}{}{}{}{}}%
@@ -524,7 +480,7 @@
       \verb{eprint}
       \verb 1509.05781
       \endverb
-      \keyw{ref,ISM: lines and bands,ISM: molecules,galaxies: individual: M31,galaxies: ISM,galaxies: nuclei,infrared: ISM}
+      \keyw{ref,ar15,ISM: lines and bands,ISM: molecules,galaxies: individual: M31,galaxies: ISM,galaxies: nuclei,infrared: ISM}
     \endentry
     \entry{2015nandra}{article}{}
       \name{labelname}{25}{}{%
@@ -603,7 +559,7 @@
       \verb{eprint}
       \verb 1503.09078
       \endverb
-      \keyw{ref,galaxies: active,galaxies: nuclei,surveys}
+      \keyw{ref,ar15,galaxies: active,galaxies: nuclei,surveys}
     \endentry
     \entry{2015AAS...22544603R}{inproceedings}{}
       \name{labelname}{6}{}{%
@@ -781,6 +737,9 @@
       \field{volume}{445}
       \field{year}{2014}
       \field{pages}{1003}
+      \verb{doi}
+      \verb 10.1093/mnras/stu1770
+      \endverb
       \verb{eprint}
       \verb 1408.6792
       \endverb
@@ -866,6 +825,9 @@
       \field{volume}{790}
       \field{year}{2014}
       \field{pages}{136}
+      \verb{doi}
+      \verb 10.1088/0004-637X/790/2/136
+      \endverb
       \verb{eprint}
       \verb 1406.4121
       \endverb

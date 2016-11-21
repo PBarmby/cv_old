@@ -132,7 +132,11 @@
       \field{month}{06}
       \field{title}{{The dustier early-type galaxies deviate from late-type galaxies' scaling relations}}
       \field{year}{2016}
-      \field{pages}{in press}
+      \field{pages}{2856-2866}
+      \field{volume}{461}
+      \verb{doi}
+      \verb 10.1093/mnras/stw1467
+      \endverb
       \verb{eprint}
       \verb 1606.04867
       \endverb
@@ -373,7 +377,11 @@
       \field{month}{07}
       \field{title}{{X-Rays Beware: The Deepest Chandra Catalogue of Point Sources in M31}}
       \field{year}{2016}
-      \field{pages}{in press}
+      \field{volume}{461}
+      \field{pages}{3443-3456}
+      \verb{doi}
+      \verb 10.1093/mnras/stw1523
+      \endverb
       \verb{eprint}
       \verb 1607.01772
       \endverb
@@ -619,23 +627,23 @@
       \strng{namehash}{72bae73461bfd642b3edf9285711a19c}
       \strng{fullhash}{72bae73461bfd642b3edf9285711a19c}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{12}
+      \field{labelyear}{2016}
+      \field{labelmonth}{10}
       \field{datelabelsource}{}
       \field{labeltitle}{{Ten simple rules for digital data storage}}
       \field{eprinttype}{PeerJ}
       \field{journaltitle}{PLoS Comp. Biol.}
-      \field{month}{12}
+      \field{month}{10}
       \field{title}{{Ten simple rules for digital data storage}}
-      \field{year}{2015}
-      \field{pages}{submitted}
+      \field{year}{2016}
+      \field{pages}{e1005097}
       \verb{doi}
-      \verb 10.7287/peerj.preprints.1448v1
+      \verb 10.1371/journal.pcbi.1005097
       \endverb
       \verb{eprint}
       \verb P3:e1804
       \endverb
-      \keyw{submit}
+      \keyw{ref}
     \endentry
     \entry{2015hemachandra}{article}{}
       \name{labelname}{9}{}{%

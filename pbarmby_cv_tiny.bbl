@@ -19,20 +19,688 @@
 
 \refsection{0}
   \sortlist{entry}{ydnt}
-    \entry{boyer14}{article}{}
-      \name{labelname}{16}{}{%
+    \entry{2017kiar}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=bcbff916fd1158d082e457ae1ddb4623}{{\mkbibbold{{Kiar},\bibnamedelimb A.K.}}}{{\mkbibbold{{Kiar}, A.K.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f41f82ba9514674d2930fb64166312c9}{{\mkbibbold{{Hidalgo},\bibnamedelimb A.}}}{{\mkbibbold{{Hidalgo}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=bcbff916fd1158d082e457ae1ddb4623}{{\mkbibbold{{Kiar},\bibnamedelimb A.K.}}}{{\mkbibbold{{Kiar}, A.K.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f41f82ba9514674d2930fb64166312c9}{{\mkbibbold{{Hidalgo},\bibnamedelimb A.}}}{{\mkbibbold{{Hidalgo}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{1c530fab1d29cf24290892143d53e63a}
+      \strng{fullhash}{1c530fab1d29cf24290892143d53e63a}
+      \field{sortinit}{2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Deconstructing a galaxy: colour distributions of point sources in Messier 83}}
+      \field{journaltitle}{MNRAS}
+      \field{title}{{Deconstructing a galaxy: colour distributions of point sources in Messier 83}}
+      \field{year}{2017}
+      \field{pages}{submitted}
+      \keyw{nearby,submit,ar17}
+    \endentry
+    \entry{2017mahajan}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=1,hash=afeb550f950f90b2846025ca3a22107d}{{Mahajan}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=10950f5008341189b9751397f2e2818d}{{Ashby}}{A\bibinitperiod}{M.L.N.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=839689f52a57eaadb0155ccfd739c2c6}{{Willner}}{W\bibinitperiod}{S.P.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f956697dc7832e75df81c59e5dd1bd64}{{Maragkoudakis}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c901b01d660a2859df99e0026b00f1b2}{{Raychaudhury}}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=1,hash=afeb550f950f90b2846025ca3a22107d}{{Mahajan}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=10950f5008341189b9751397f2e2818d}{{Ashby}}{A\bibinitperiod}{M.L.N.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=839689f52a57eaadb0155ccfd739c2c6}{{Willner}}{W\bibinitperiod}{S.P.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f956697dc7832e75df81c59e5dd1bd64}{{Maragkoudakis}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c901b01d660a2859df99e0026b00f1b2}{{Raychaudhury}}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6eab5f8372529e3aa08919d047ecc97a}
+      \strng{fullhash}{6eab5f8372529e3aa08919d047ecc97a}
+      \field{sortinit}{2}
+      \field{labelyear}{2017}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
+      \field{journaltitle}{ApJ}
+      \field{month}{05}
+      \field{title}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
+      \field{year}{2017}
+      \field{pages}{submitted}
+      \keyw{submit,ar17}
+    \endentry
+    \entry{2017vulic}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cd94b5d21d83f5d624e693240fed2900}
+      \strng{fullhash}{cd94b5d21d83f5d624e693240fed2900}
+      \field{sortinit}{2}
+      \field{labelyear}{2017}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Milky Way Globular Cluster Metallicity and Low-Mass X-ray Binaries: The Red Giant Influence}}
+      \field{journaltitle}{MNRAS}
+      \field{month}{02}
+      \field{title}{{Milky Way Globular Cluster Metallicity and Low-Mass X-ray Binaries: The Red Giant Influence}}
+      \field{year}{2017}
+      \field{pages}{submitted}
+      \keyw{nearby,submit,ar16}
+    \endentry
+    \entry{arnason16}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ba6224f2a864dd7f08248ebf9eb79d8c}{{Maccarone}}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4119d363209b37588a123d75b0834ce4}{{Zepf}}{Z\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ba6224f2a864dd7f08248ebf9eb79d8c}{{Maccarone}}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4119d363209b37588a123d75b0834ce4}{{Zepf}}{Z\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Winnipeg}%
+      }
+      \strng{namehash}{ae9fa2bbb662df65479c8c401ca69bc1}
+      \strng{fullhash}{ae9fa2bbb662df65479c8c401ca69bc1}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Identifying X-ray Binaries in the Sculptor Dwarf Spheroidal Galaxy}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{06}
+      \field{title}{{Identifying X-ray Binaries in the Sculptor Dwarf Spheroidal Galaxy}}
+      \field{year}{2016}
+      \keyw{unref,ar16}
+    \endentry
+    \entry{barmby16a}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Toledo}%
+      }
+      \strng{namehash}{2588e73101cd4824062155fad565fba8}
+      \strng{fullhash}{2588e73101cd4824062155fad565fba8}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Stellar populations in the outskirts of M31: the mid-infrared view}}
+      \field{booktitle}{IAU Symposium 321: Formation and Evolution of Galaxy Outskirts}
+      \field{month}{03}
+      \field{title}{{Stellar populations in the outskirts of M31: the mid-infrared view}}
+      \field{year}{2016}
+      \keyw{unref,ar16}
+    \endentry
+    \entry{barmby16b}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=7bb063970a661255418c5ef5c6198248}{{Nandez}}{N\bibinitperiod}{J.L.A.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=7bb063970a661255418c5ef5c6198248}{{Nandez}}{N\bibinitperiod}{J.L.A.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Winnipeg}%
+      }
+      \strng{namehash}{70cccd12c2bac79c1425303ca74f972f}
+      \strng{fullhash}{70cccd12c2bac79c1425303ca74f972f}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Pieces of Andromeda: machine-learning and big data techniques applied to M31}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{06}
+      \field{title}{{Pieces of Andromeda: machine-learning and big data techniques applied to M31}}
+      \field{year}{2016}
+      \keyw{unref,ar16}
+    \endentry
+    \entry{2016hart}{article}{}
+      \name{labelname}{10}{}{%
+        {{uniquename=0,hash=9ea247670a492ffda104db277c14ea1a}{Hart}{H\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{Barmby}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f7feacd2883081861cf21afcf1dc058b}{LeBauer}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=93fbd09090e6934dc3de9c6eaf8ddd6a}{Michonneau}{M\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=31220963b898be61f4d31a09eb538653}{Mount}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dcaf8bc7a486b506f573defa516ba5ed}{Mulrooney}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=73621490f7d20daca32407051520a8ee}{Poisot}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ff893e55978589fca86a1ca39d327d21}{Woo}{W\bibinitperiod}{K.\bibnamedelimi H.}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4fc468d0af3632e90a86d94f138964bd}{Zimmerman}{Z\bibinitperiod}{N.\bibnamedelimi B.}{N\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=74d03c6d9e58f46ec43629919f6657d4}{Hollister}{H\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{uniquename=0,hash=9ea247670a492ffda104db277c14ea1a}{Hart}{H\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{Barmby}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f7feacd2883081861cf21afcf1dc058b}{LeBauer}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=93fbd09090e6934dc3de9c6eaf8ddd6a}{Michonneau}{M\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=31220963b898be61f4d31a09eb538653}{Mount}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dcaf8bc7a486b506f573defa516ba5ed}{Mulrooney}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=73621490f7d20daca32407051520a8ee}{Poisot}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ff893e55978589fca86a1ca39d327d21}{Woo}{W\bibinitperiod}{K.\bibnamedelimi H.}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4fc468d0af3632e90a86d94f138964bd}{Zimmerman}{Z\bibinitperiod}{N.\bibnamedelimi B.}{N\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=74d03c6d9e58f46ec43629919f6657d4}{Hollister}{H\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7be6ce00b734dca9bcf7bcf84cbd5554}
+      \strng{fullhash}{7be6ce00b734dca9bcf7bcf84cbd5554}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{{T}en {S}imple {R}ules for {D}igital {D}ata {S}torage}}
+      \field{journaltitle}{PLoS Comput. Biol.}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{{T}en {S}imple {R}ules for {D}igital {D}ata {S}torage}}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{e1005097}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1005097
+      \endverb
+      \keyw{ref,ar16}
+    \endentry
+    \entry{kiar16}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=9f96e3dbbb799846ea26706627c87742}{{\mkbibbold{{Kiar},\bibnamedelimb A.}}}{{\mkbibbold{{Kiar}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9f96e3dbbb799846ea26706627c87742}{{\mkbibbold{{Kiar},\bibnamedelimb A.}}}{{\mkbibbold{{Kiar}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Ottawa}%
+      }
+      \strng{namehash}{ed466033e60c1ccbf0c56624f0563824}
+      \strng{fullhash}{ed466033e60c1ccbf0c56624f0563824}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Clustering a Nearby Galaxy}}
+      \field{booktitle}{ASTRO 2016: 17th Canadian Astronautics \& Space Institute conference}
+      \field{month}{05}
+      \field{title}{{Clustering a Nearby Galaxy}}
+      \field{year}{2016}
+      \keyw{unref,ar16}
+    \endentry
+    \entry{2016lianou}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=2de4f4ce8fd77b0423e9909cdd93a0a4}{{Xilouris}}{X\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=092965942a5bb140f5557971e67082d6}{{Madden}}{M\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=2de4f4ce8fd77b0423e9909cdd93a0a4}{{Xilouris}}{X\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=092965942a5bb140f5557971e67082d6}{{Madden}}{M\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{111a2e9c17e08dba17061459a9c3d947}
+      \strng{fullhash}{111a2e9c17e08dba17061459a9c3d947}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The dustier early-type galaxies deviate from late-type galaxies' scaling relations}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{MNRAS}
+      \field{month}{09}
+      \field{title}{{The dustier early-type galaxies deviate from late-type galaxies' scaling relations}}
+      \field{volume}{461}
+      \field{year}{2016}
+      \field{pages}{2856\bibrangedash 2866}
+      \verb{doi}
+      \verb 10.1093/mnras/stw1467
+      \endverb
+      \verb{eprint}
+      \verb 1606.04867
+      \endverb
+      \keyw{nearby,ref,galaxies: star formation,infrared: ISM}
+    \endentry
+    \entry{2016mok}{article}{}
+      \name{labelname}{12}{}{%
+        {{uniquename=0,hash=bcc8c15c6f89ca38b0c78e62b740d975}{{Mok}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d2031cf572fe4a1e931e6e622d86adc3}{{Golding}}{G\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2ed7dfc9a3a05393975711d2fd135503}{{Warren}}{W\bibinitperiod}{B.\bibnamedelimi E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f620b1107bc6002e41b4355debc3734f}{{Israel}}{I\bibinitperiod}{F.\bibnamedelimi P.}{F\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f64d9664da2e2f100a2c4ac32d33132}{{Serjeant}}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f5524e1734858215c0035273306abcd}{{Knapen}}{K\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b73379647775da7197a998e261bb5a18}{{S{\'a}nchez-Gallego}}{S\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=369445b8579f21b50a62c827d9ffab9b}{{Bendo}}{B\bibinitperiod}{G.\bibnamedelimi J.}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{{Rosolowsky}}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e9438085992db2188b9fc74e51144c5e}{{van\bibnamedelimb der\bibnamedelimb Werf}}{v\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{uniquename=0,hash=bcc8c15c6f89ca38b0c78e62b740d975}{{Mok}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d2031cf572fe4a1e931e6e622d86adc3}{{Golding}}{G\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2ed7dfc9a3a05393975711d2fd135503}{{Warren}}{W\bibinitperiod}{B.\bibnamedelimi E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f620b1107bc6002e41b4355debc3734f}{{Israel}}{I\bibinitperiod}{F.\bibnamedelimi P.}{F\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f64d9664da2e2f100a2c4ac32d33132}{{Serjeant}}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f5524e1734858215c0035273306abcd}{{Knapen}}{K\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b73379647775da7197a998e261bb5a18}{{S{\'a}nchez-Gallego}}{S\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=369445b8579f21b50a62c827d9ffab9b}{{Bendo}}{B\bibinitperiod}{G.\bibnamedelimi J.}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{{Rosolowsky}}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e9438085992db2188b9fc74e51144c5e}{{van\bibnamedelimb der\bibnamedelimb Werf}}{v\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f64ab2d8428d842c0210ee7cbd3004b4}
+      \strng{fullhash}{f64ab2d8428d842c0210ee7cbd3004b4}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The JCMT nearby galaxies legacy survey - X. Environmental effects on the molecular gas and star formation properties of spiral galaxies}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{MNRAS}
+      \field{month}{03}
+      \field{title}{{The JCMT nearby galaxies legacy survey - X. Environmental effects on the molecular gas and star formation properties of spiral galaxies}}
+      \field{volume}{456}
+      \field{year}{2016}
+      \field{pages}{4384\bibrangedash 4406}
+      \verb{doi}
+      \verb 10.1093/mnras/stv2958
+      \endverb
+      \verb{eprint}
+      \verb 1512.05768
+      \endverb
+      \keyw{ref,ar15,stars: formation,ISM: molecules,galaxies: ISM,galaxies: spiral}
+    \endentry
+    \entry{2016ravandi}{article}{}
+      \name{labelname}{9}{}{%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=51892caeaaa6c6070804fe85958f4014}{{Laine}}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c6f0dc32e4e163998f6f63c344917f20}{{Davidge}}{D\bibinitperiod}{T.\bibnamedelimi J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9bfa2052b7d90421cd5742cc6bbb7750}{{Zhang}}{Z\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0bb980a05a3ca47474d167c174071166}{{Bianchi}}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c2238942fb239146d4f18c1d4f4418a}{{Babul}}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=e52b073f03552f36935df2593bb73a59}{{Chapman}}{C\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=51892caeaaa6c6070804fe85958f4014}{{Laine}}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c6f0dc32e4e163998f6f63c344917f20}{{Davidge}}{D\bibinitperiod}{T.\bibnamedelimi J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9bfa2052b7d90421cd5742cc6bbb7750}{{Zhang}}{Z\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0bb980a05a3ca47474d167c174071166}{{Bianchi}}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c2238942fb239146d4f18c1d4f4418a}{{Babul}}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=e52b073f03552f36935df2593bb73a59}{{Chapman}}{C\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fc07a120ccb1bec1840da104e039c765}
+      \strng{fullhash}{fc07a120ccb1bec1840da104e039c765}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The extended disc and halo of the Andromeda galaxy observed with Spitzer-IRAC}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{MNRAS}
+      \field{month}{06}
+      \field{title}{{The extended disc and halo of the Andromeda galaxy observed with Spitzer-IRAC}}
+      \field{volume}{459}
+      \field{year}{2016}
+      \field{pages}{1403\bibrangedash 1414}
+      \verb{doi}
+      \verb 10.1093/mnras/stw652
+      \endverb
+      \verb{eprint}
+      \verb 1603.06903
+      \endverb
+      \keyw{nearby,ref,galaxies: individual: M31,galaxies: spiral,galaxies: stellar content,infrared: galaxies}
+    \endentry
+    \entry{2016rahmani}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1569bf719811f4254146676028372aa7}
+      \strng{fullhash}{1569bf719811f4254146676028372aa7}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Star formation laws in the Andromeda galaxy: gas, stars, metals and the surface density of star formation}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{MNRAS}
+      \field{month}{03}
+      \field{title}{{Star formation laws in the Andromeda galaxy: gas, stars, metals and the surface density of star formation}}
+      \field{volume}{456}
+      \field{year}{2016}
+      \field{pages}{4128\bibrangedash 4144}
+      \verb{doi}
+      \verb 10.1093/mnras/stv2951
+      \endverb
+      \verb{eprint}
+      \verb 1512.06675
+      \endverb
+      \keyw{nearby,ref,ar15,methods: observational,methods: statistical,galaxies: ISM,galaxies: spiral,galaxies: star formation,galaxies: stellar content}
+    \endentry
+    \entry{2016b_rahmani}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=26e87b40bb56206a157f21f2bb4ee882}{{Teimoorinia}}{T\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=26e87b40bb56206a157f21f2bb4ee882}{{Teimoorinia}}{T\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bf806f3bab69d8d738a73e24666c13c3}
+      \strng{fullhash}{bf806f3bab69d8d738a73e24666c13c3}
+      \field{sortinit}{2}
+      \field{extrayear}{1}
+      \field{labelyear}{2016}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Classifying galaxy spectra at $0.5< z <1$: an unsupervised approach}}
+      \field{journaltitle}{MNRAS}
+      \field{month}{06}
+      \field{title}{{Classifying galaxy spectra at $0.5< z <1$: an unsupervised approach}}
+      \field{year}{2016}
+      \field{pages}{submitted}
+      \keyw{submit,ar16}
+    \endentry
+    \entry{rahmani16}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=26e87b40bb56206a157f21f2bb4ee882}{{Teimoorinia}}{T\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=26e87b40bb56206a157f21f2bb4ee882}{{Teimoorinia}}{T\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Winnipeg}%
+      }
+      \strng{namehash}{bf806f3bab69d8d738a73e24666c13c3}
+      \strng{fullhash}{bf806f3bab69d8d738a73e24666c13c3}
+      \field{sortinit}{2}
+      \field{extrayear}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Mining in nearby galaxies}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{06}
+      \field{title}{{Mining in nearby galaxies}}
+      \field{year}{2016}
+      \keyw{unref,ar16}
+    \endentry
+    \entry{rahmani16b}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=26e87b40bb56206a157f21f2bb4ee882}{{Teimoorinia}}{T\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{{Peeters}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=26e87b40bb56206a157f21f2bb4ee882}{{Teimoorinia}}{T\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{{Peeters}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Pittsburgh}%
+      }
+      \strng{namehash}{9f42fbf4284398e059c22f30ee8d497f}
+      \strng{fullhash}{9f42fbf4284398e059c22f30ee8d497f}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Data mining in nearby galaxies}}
+      \field{booktitle}{Statistical Challenges in Modern Astronomy VI}
+      \field{month}{06}
+      \field{title}{{Data mining in nearby galaxies}}
+      \field{year}{2016}
+      \keyw{unref,ar16}
+    \endentry
+    \entry{2016vulic}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d319988b4a09c07fd942176d59b877af}
+      \strng{fullhash}{d319988b4a09c07fd942176d59b877af}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{X-rays beware: the deepest Chandra catalogue of point sources in M31}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{MNRAS}
+      \field{month}{10}
+      \field{title}{{X-rays beware: the deepest Chandra catalogue of point sources in M31}}
+      \field{volume}{461}
+      \field{year}{2016}
+      \field{pages}{3443\bibrangedash 3456}
+      \verb{doi}
+      \verb 10.1093/mnras/stw1523
+      \endverb
+      \verb{eprint}
+      \verb 1607.01772
+      \endverb
+      \keyw{nearby,ref,catalogues,galaxies: individual: M31,NGC 224,X-rays: binaries,X-rays: galaxies}
+    \endentry
+    \entry{2015AAS...22542905B}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c5f5c751a3cf82dee877e7a4ecdcfaf3}{{\mkbibbold{{Hemachandra},\bibnamedelimb D.}}}{{\mkbibbold{{Hemachandra}, D.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{{Peeters}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=865aa8d4ef9b212c181317425ffe1a4c}{{Ashby}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4cda2a1ccb7d41979b896c33c42c0bac}{{Smith}}{S\bibinitperiod}{H.\bibnamedelimi A.}{H\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=b060f73c3891cf88b3675ddbc8b24423}{{Smith}}{S\bibinitperiod}{D.\bibnamedelimi A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c5f5c751a3cf82dee877e7a4ecdcfaf3}{{\mkbibbold{{Hemachandra},\bibnamedelimb D.}}}{{\mkbibbold{{Hemachandra}, D.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{{Peeters}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=865aa8d4ef9b212c181317425ffe1a4c}{{Ashby}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4cda2a1ccb7d41979b896c33c42c0bac}{{Smith}}{S\bibinitperiod}{H.\bibnamedelimi A.}{H\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=b060f73c3891cf88b3675ddbc8b24423}{{Smith}}{S\bibinitperiod}{D.\bibnamedelimi A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f4f6fc09961f7f8fb6c2c0c99fd58f96}
+      \strng{fullhash}{f4f6fc09961f7f8fb6c2c0c99fd58f96}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The M31 nucleus in the mid-infrared}}
+      \field{booktitle}{American Astronomical Society Meeting Abstracts}
+      \field{month}{01}
+      \field{title}{{The M31 nucleus in the mid-infrared}}
+      \field{volume}{225}
+      \field{year}{2015}
+      \field{pages}{429.05}
+      \keyw{unref}
+    \endentry
+    \entry{2015AAS...22534224B}{inproceedings}{}
+      \name{labelname}{17}{}{%
         {{uniquename=1,hash=12f38504900d7be0b8f5557e565c1a1b}{{Boyer}}{B\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=802e1caa07e50ca349b9773d0835f1f2}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=be7a50911cd87c5df94cfad36dea2acc}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.\bibnamedelimi W.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e3ed73936a2a7c79140662a0239c412e}{{Bonanos}}{B\bibinitperiod}{A.\bibnamedelimi Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=fc723a4e60e6189b4b96745ef50b201b}{{Gehrz}}{G\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=e86610c1000776e5cbfe8b0a8de868bf}{{Groenewegen}}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7763c1645894861db84370fd1301f4d9}{{Groenewegen}}{G\bibinitperiod}{M.\bibnamedelimi A.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7aa9da629311b92541489a5fb3de79a9}{{Lagadec}}{L\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=25fd0894f8a09e594a78b44aad5f15a6}{{Lennon}}{L\bibinitperiod}{D.\bibnamedelimi J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=223bad77df04897d36cf09954d4f0019}{{McDonald}}{M\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fbbbbfce4c95c65d1da1f1b90abfd447}{{Zijlstra}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{17}{}{%
+        {{uniquename=1,hash=12f38504900d7be0b8f5557e565c1a1b}{{Boyer}}{B\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=be7a50911cd87c5df94cfad36dea2acc}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.\bibnamedelimi W.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e3ed73936a2a7c79140662a0239c412e}{{Bonanos}}{B\bibinitperiod}{A.\bibnamedelimi Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fc723a4e60e6189b4b96745ef50b201b}{{Gehrz}}{G\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7763c1645894861db84370fd1301f4d9}{{Groenewegen}}{G\bibinitperiod}{M.\bibnamedelimi A.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7aa9da629311b92541489a5fb3de79a9}{{Lagadec}}{L\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=25fd0894f8a09e594a78b44aad5f15a6}{{Lennon}}{L\bibinitperiod}{D.\bibnamedelimi J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=223bad77df04897d36cf09954d4f0019}{{McDonald}}{M\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fbbbbfce4c95c65d1da1f1b90abfd447}{{Zijlstra}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e7285526550e693f3ddf180b6f96975a}
+      \strng{fullhash}{e7285526550e693f3ddf180b6f96975a}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{DUSTiNGS Reveals Dust Production in Very Metal Poor Galaxies}}
+      \field{booktitle}{American Astronomical Society Meeting Abstracts}
+      \field{month}{01}
+      \field{title}{{DUSTiNGS Reveals Dust Production in Very Metal Poor Galaxies}}
+      \field{volume}{225}
+      \field{year}{2015}
+      \field{pages}{342.24}
+      \keyw{unref}
+    \endentry
+    \entry{boyer15b}{article}{}
+      \name{labelname}{17}{}{%
+        {{uniquename=1,hash=12f38504900d7be0b8f5557e565c1a1b}{{Boyer}}{B\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=be7a50911cd87c5df94cfad36dea2acc}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.\bibnamedelimi W.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e3ed73936a2a7c79140662a0239c412e}{{Bonanos}}{B\bibinitperiod}{A.\bibnamedelimi Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fc723a4e60e6189b4b96745ef50b201b}{{Gehrz}}{G\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7763c1645894861db84370fd1301f4d9}{{Groenewegen}}{G\bibinitperiod}{M.\bibnamedelimi A.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7aa9da629311b92541489a5fb3de79a9}{{Lagadec}}{L\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d15c1fc059140eaed53c29bbcaaf3fe9}{{Lennon}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=223bad77df04897d36cf09954d4f0019}{{McDonald}}{M\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c6166e054f72d0ed023a421907d78ea8}{{Skillman}}{S\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fbbbbfce4c95c65d1da1f1b90abfd447}{{Zijlstra}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{17}{}{%
+        {{uniquename=1,hash=12f38504900d7be0b8f5557e565c1a1b}{{Boyer}}{B\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=be7a50911cd87c5df94cfad36dea2acc}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.\bibnamedelimi W.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e3ed73936a2a7c79140662a0239c412e}{{Bonanos}}{B\bibinitperiod}{A.\bibnamedelimi Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fc723a4e60e6189b4b96745ef50b201b}{{Gehrz}}{G\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7763c1645894861db84370fd1301f4d9}{{Groenewegen}}{G\bibinitperiod}{M.\bibnamedelimi A.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7aa9da629311b92541489a5fb3de79a9}{{Lagadec}}{L\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d15c1fc059140eaed53c29bbcaaf3fe9}{{Lennon}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=223bad77df04897d36cf09954d4f0019}{{McDonald}}{M\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c6166e054f72d0ed023a421907d78ea8}{{Skillman}}{S\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fbbbbfce4c95c65d1da1f1b90abfd447}{{Zijlstra}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{49e4c40df4cc03039b6d4aaf838f16db}
+      \strng{fullhash}{49e4c40df4cc03039b6d4aaf838f16db}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{An Infrared Census of Dust in Nearby Galaxies with Spitzer (DUSTiNGS). II. Discovery of Metal-poor Dusty AGB Stars}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ApJ}
+      \field{month}{02}
+      \field{title}{{An Infrared Census of Dust in Nearby Galaxies with Spitzer (DUSTiNGS). II. Discovery of Metal-poor Dusty AGB Stars}}
+      \field{volume}{800}
+      \field{year}{2015}
+      \field{pages}{51}
+      \verb{doi}
+      \verb 10.1088/0004-637X/800/1/51
+      \endverb
+      \verb{eprint}
+      \verb 1412.0695
+      \endverb
+      \keyw{ref,nearby}
+    \endentry
+    \entry{boyer15a}{article}{}
+      \name{labelname}{16}{}{%
+        {{uniquename=1,hash=12f38504900d7be0b8f5557e565c1a1b}{{Boyer}}{B\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=be7a50911cd87c5df94cfad36dea2acc}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.\bibnamedelimi W.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e3ed73936a2a7c79140662a0239c412e}{{Bonanos}}{B\bibinitperiod}{A.\bibnamedelimi Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fc723a4e60e6189b4b96745ef50b201b}{{Gehrz}}{G\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7763c1645894861db84370fd1301f4d9}{{Groenewegen}}{G\bibinitperiod}{M.\bibnamedelimi A.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7aa9da629311b92541489a5fb3de79a9}{{Lagadec}}{L\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=d15c1fc059140eaed53c29bbcaaf3fe9}{{Lennon}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c6166e054f72d0ed023a421907d78ea8}{{Skillman}}{S\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
@@ -40,36 +708,252 @@
       }
       \name{author}{16}{}{%
         {{uniquename=1,hash=12f38504900d7be0b8f5557e565c1a1b}{{Boyer}}{B\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=802e1caa07e50ca349b9773d0835f1f2}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=be7a50911cd87c5df94cfad36dea2acc}{{McQuinn}}{M\bibinitperiod}{K.\bibnamedelimi B.\bibnamedelimi W.}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e3ed73936a2a7c79140662a0239c412e}{{Bonanos}}{B\bibinitperiod}{A.\bibnamedelimi Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=fc723a4e60e6189b4b96745ef50b201b}{{Gehrz}}{G\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=e86610c1000776e5cbfe8b0a8de868bf}{{Groenewegen}}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7763c1645894861db84370fd1301f4d9}{{Groenewegen}}{G\bibinitperiod}{M.\bibnamedelimi A.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7aa9da629311b92541489a5fb3de79a9}{{Lagadec}}{L\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=d15c1fc059140eaed53c29bbcaaf3fe9}{{Lennon}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=c6166e054f72d0ed023a421907d78ea8}{{Skillman}}{S\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=fbbbbfce4c95c65d1da1f1b90abfd447}{{Zijlstra}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{f64e6814e005172eb20581e9fa2615bc}
-      \strng{fullhash}{f64e6814e005172eb20581e9fa2615bc}
+      \strng{namehash}{86feb9ed42433614fbfb0e2dd6868d4d}
+      \strng{fullhash}{86feb9ed42433614fbfb0e2dd6868d4d}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2014}
+      \field{labelyear}{2015}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{An Infrared Census of Dust in nearby Galaxies with Spitzer (DUSTiNGS). I. Overview}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ApJS}
+      \field{month}{01}
+      \field{title}{{An Infrared Census of Dust in nearby Galaxies with Spitzer (DUSTiNGS). I. Overview}}
+      \field{volume}{216}
+      \field{year}{2015}
+      \field{pages}{10}
+      \verb{doi}
+      \verb 10.1088/0067-0049/216/1/10
+      \endverb
+      \verb{eprint}
+      \verb 1411.4053
+      \endverb
+      \keyw{ref}
+    \endentry
+    \entry{2015hemachandra}{article}{}
+      \name{labelname}{9}{}{%
+        {{uniquename=0,hash=c5f5c751a3cf82dee877e7a4ecdcfaf3}{{\mkbibbold{{Hemachandra},\bibnamedelimb D.}}}{{\mkbibbold{{Hemachandra}, D.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{{Peeters}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4cda2a1ccb7d41979b896c33c42c0bac}{{Smith}}{S\bibinitperiod}{H.\bibnamedelimi A.}{H\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=b060f73c3891cf88b3675ddbc8b24423}{{Smith}}{S\bibinitperiod}{D.\bibnamedelimi A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{uniquename=0,hash=c5f5c751a3cf82dee877e7a4ecdcfaf3}{{\mkbibbold{{Hemachandra},\bibnamedelimb D.}}}{{\mkbibbold{{Hemachandra}, D.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{{Peeters}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4cda2a1ccb7d41979b896c33c42c0bac}{{Smith}}{S\bibinitperiod}{H.\bibnamedelimi A.}{H\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=b060f73c3891cf88b3675ddbc8b24423}{{Smith}}{S\bibinitperiod}{D.\bibnamedelimi A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d69d47471b4560d25e70c66065cbc905}
+      \strng{fullhash}{d69d47471b4560d25e70c66065cbc905}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Mid-infrared spectroscopy of the Andromeda galaxy}}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{MNRAS}
+      \field{month}{11}
+      \field{title}{{Mid-infrared spectroscopy of the Andromeda galaxy}}
+      \field{volume}{454}
+      \field{year}{2015}
+      \field{pages}{818\bibrangedash 830}
+      \verb{doi}
+      \verb 10.1093/mnras/stv2001
+      \endverb
+      \verb{eprint}
+      \verb 1509.05781
+      \endverb
+      \keyw{ref,ar15,ISM: lines and bands,ISM: molecules,galaxies: individual: M31,galaxies: ISM,galaxies: nuclei,infrared: ISM}
+    \endentry
+    \entry{2015nandra}{article}{}
+      \name{labelname}{25}{}{%
+        {{uniquename=0,hash=65f77a5a2eaeedc19785d9a9706aac0d}{{Nandra}}{N\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e3cd0469ee5e2d6be743e5b0dc7a555}{{Laird}}{L\bibinitperiod}{E.\bibnamedelimi S.}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bad18f118e41c4b43979c55b68dd7fc0}{{Aird}}{A\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9fc9f3475200fc07559ad409f580fbac}{{Salvato}}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d1d79ffcfa22a9107623da01dd62f48b}{{Georgakakis}}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3aa9fa3ef43be1bff7f0df98654b8281}{{Barro}}{B\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=860f753641232d7ea9cc7a56c9984900}{{Perez-Gonzalez}}{P\bibinitperiod}{P.\bibnamedelimi G.}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0d9e9065dbd948be289c9caf98f12147}{{Chary}}{C\bibinitperiod}{R.-R.}{R\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c489412913cb0449b0577b04fed8f2f2}{{Coil}}{C\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=40190b026e98542ad8070165a2e0d912}{{Cooper}}{C\bibinitperiod}{M.\bibnamedelimi C.}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=976f3309575ad3cc2803ad9ae3425bd0}{{Davis}}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2262a8d93ac24ae3942bd0fba6c7a1b8}{{Dickinson}}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3b00fb081dabebf3379555876207b76f}{{Faber}}{F\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a48e463042920f61dc92d9165e5e8d4}{{Guhathakurta}}{G\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e0c0b4abcef5a3873294411d4dc1338}{{Gwyn}}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cac74a2ff272b6e9b201d900b602ad33}{{Hsu}}{H\bibinitperiod}{L.-T.}{L\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b8df140c130daa751bc010a6af597fa0}{{Huang}}{H\bibinitperiod}{J.-S.}{J\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=08233d9494f414cce617bc61411055c4}{{Ivison}}{I\bibinitperiod}{R.\bibnamedelimi J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=877fe1bb7d37465efc5e24e371032266}{{Koo}}{K\bibinitperiod}{D.\bibnamedelimi C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=69f8c25a981ce7be402b4a3753b376b7}{{Newman}}{N\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ecb5b57bc0fc6f48ba3140c2bce82049}{{Rangel}}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e28409fd31d7dc9034f6600c574d6b16}{{Yamada}}{Y\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=55677e5575eef0f9ef8ddd4abbd2a06f}{{Willmer}}{W\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{25}{}{%
+        {{uniquename=0,hash=65f77a5a2eaeedc19785d9a9706aac0d}{{Nandra}}{N\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e3cd0469ee5e2d6be743e5b0dc7a555}{{Laird}}{L\bibinitperiod}{E.\bibnamedelimi S.}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bad18f118e41c4b43979c55b68dd7fc0}{{Aird}}{A\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9fc9f3475200fc07559ad409f580fbac}{{Salvato}}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d1d79ffcfa22a9107623da01dd62f48b}{{Georgakakis}}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3aa9fa3ef43be1bff7f0df98654b8281}{{Barro}}{B\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=860f753641232d7ea9cc7a56c9984900}{{Perez-Gonzalez}}{P\bibinitperiod}{P.\bibnamedelimi G.}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0d9e9065dbd948be289c9caf98f12147}{{Chary}}{C\bibinitperiod}{R.-R.}{R\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c489412913cb0449b0577b04fed8f2f2}{{Coil}}{C\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=40190b026e98542ad8070165a2e0d912}{{Cooper}}{C\bibinitperiod}{M.\bibnamedelimi C.}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=976f3309575ad3cc2803ad9ae3425bd0}{{Davis}}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2262a8d93ac24ae3942bd0fba6c7a1b8}{{Dickinson}}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3b00fb081dabebf3379555876207b76f}{{Faber}}{F\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a48e463042920f61dc92d9165e5e8d4}{{Guhathakurta}}{G\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e0c0b4abcef5a3873294411d4dc1338}{{Gwyn}}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cac74a2ff272b6e9b201d900b602ad33}{{Hsu}}{H\bibinitperiod}{L.-T.}{L\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b8df140c130daa751bc010a6af597fa0}{{Huang}}{H\bibinitperiod}{J.-S.}{J\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=08233d9494f414cce617bc61411055c4}{{Ivison}}{I\bibinitperiod}{R.\bibnamedelimi J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=877fe1bb7d37465efc5e24e371032266}{{Koo}}{K\bibinitperiod}{D.\bibnamedelimi C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=69f8c25a981ce7be402b4a3753b376b7}{{Newman}}{N\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ecb5b57bc0fc6f48ba3140c2bce82049}{{Rangel}}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e28409fd31d7dc9034f6600c574d6b16}{{Yamada}}{Y\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=55677e5575eef0f9ef8ddd4abbd2a06f}{{Willmer}}{W\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a5238c49fdf88dfcf388a99b6177ccf8}
+      \strng{fullhash}{b18606bfd0305520a53ed82dd0fe55b1}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
       \field{labelmonth}{09}
       \field{datelabelsource}{}
-      \field{labeltitle}{{An Infrared Census of DUST in Nearby Galaxies with Spitzer (DUSTiNGS), I. Overview}}
-      \field{journaltitle}{ApJ, submitted}
+      \field{labeltitle}{{AEGIS-X: Deep Chandra Imaging of the Central Groth Strip}}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ApJS}
       \field{month}{09}
-      \field{title}{{An Infrared Census of DUST in Nearby Galaxies with Spitzer (DUSTiNGS), I. Overview}}
+      \field{title}{{AEGIS-X: Deep Chandra Imaging of the Central Groth Strip}}
+      \field{volume}{220}
+      \field{year}{2015}
+      \field{pages}{10}
+      \verb{doi}
+      \verb 10.1088/0067-0049/220/1/10
+      \endverb
+      \verb{eprint}
+      \verb 1503.09078
+      \endverb
+      \keyw{ref,ar15,galaxies: active,galaxies: nuclei,surveys}
+    \endentry
+    \entry{2015AAS...22544603R}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=865aa8d4ef9b212c181317425ffe1a4c}{{Ashby}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=56ee900c57bc4d6da3030516c0e05859}{{Davidge}}{D\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=21e9eee5568a7cebb2942b009870ac49}{{Laine}}{L\bibinitperiod}{S.\bibnamedelimi J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9bfa2052b7d90421cd5742cc6bbb7750}{{Zhang}}{Z\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=6ed67cb2d8e0306501eaf6ef3516a74f}{{\mkbibbold{{Rafiei\bibnamedelimb Ravandi},\bibnamedelimb M.}}}{{\mkbibbold{{Rafiei Ravandi}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=865aa8d4ef9b212c181317425ffe1a4c}{{Ashby}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=56ee900c57bc4d6da3030516c0e05859}{{Davidge}}{D\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=21e9eee5568a7cebb2942b009870ac49}{{Laine}}{L\bibinitperiod}{S.\bibnamedelimi J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9bfa2052b7d90421cd5742cc6bbb7750}{{Zhang}}{Z\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62e30358d6023ff2b138485b54cb2f2a}
+      \strng{fullhash}{62e30358d6023ff2b138485b54cb2f2a}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Extending the Surface Brightness Profile of the Andromeda Galaxy Using Spitzer-IRAC Observations}}
+      \field{booktitle}{American Astronomical Society Meeting Abstracts}
+      \field{month}{01}
+      \field{title}{{Extending the Surface Brightness Profile of the Andromeda Galaxy Using Spitzer-IRAC Observations}}
+      \field{volume}{225}
+      \field{year}{2015}
+      \field{pages}{446.03}
+      \keyw{unref}
+    \endentry
+    \entry{vulic15}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{{Gallagher}}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{{Gallagher}}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Hamilton}%
+      }
+      \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
+      \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Over `1001011000' Chandra X-ray Point Sources in M31: Into the Faint Abyss}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{05}
+      \field{title}{{Over `1001011000' Chandra X-ray Point Sources in M31: Into the Faint Abyss}}
+      \field{year}{2015}
+      \keyw{unref}
+    \endentry
+    \entry{barmby14}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=13b69a771bd1821b40fc031af09cad05}{{\mkbibbold{{Taylor},\bibnamedelimb J.C.}}}{{\mkbibbold{{Taylor}, J.C.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=13b69a771bd1821b40fc031af09cad05}{{\mkbibbold{{Taylor},\bibnamedelimb J.C.}}}{{\mkbibbold{{Taylor}, J.C.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quebec}%
+      }
+      \strng{namehash}{689a93eba79dfaaffe7a937d9d2b8104}
+      \strng{fullhash}{689a93eba79dfaaffe7a937d9d2b8104}
+      \field{sortinit}{2}
+      \field{labelyear}{2014}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Imagecube: an astronomical Python package for organizing and processing multi-wavelength astronomical data}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{06}
+      \field{title}{{Imagecube: an astronomical Python package for organizing and processing multi-wavelength astronomical data}}
       \field{year}{2014}
-      \field{pages}{}
-      \keyw{ref}
+      \keyw{unref}
     \endentry
     \entry{2014AAS...22335507B}{inproceedings}{}
       \name{labelname}{16}{}{%
@@ -84,7 +968,7 @@
         {{uniquename=1,hash=d15c1fc059140eaed53c29bbcaaf3fe9}{{Lennon}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
@@ -102,7 +986,7 @@
         {{uniquename=1,hash=d15c1fc059140eaed53c29bbcaaf3fe9}{{Lennon}}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=496b272078edae25e5fac678009cca27}{{Sonneborn}}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
@@ -111,7 +995,6 @@
       \strng{namehash}{f64e6814e005172eb20581e9fa2615bc}
       \strng{fullhash}{f64e6814e005172eb20581e9fa2615bc}
       \field{sortinit}{2}
-      \field{extrayear}{2}
       \field{labelyear}{2014}
       \field{labelmonth}{01}
       \field{datelabelsource}{}
@@ -124,59 +1007,58 @@
       \field{pages}{355.07}
       \keyw{unref}
     \endentry
-    \entry{2014croley}{article}{}
-      \name{labelname}{5}{}{%
-        {{uniquename=1,hash=a2a0a34b7bb9ee33028371d09032eec3}{{Croley}}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+    \entry{lianou14b}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=5d04d6a70a71915c864c95001412a0b8}{{Stock}}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{{Rosolowsky}}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3604e7584ea78b14bdb7bd6596bdafec}{Remy-Ruyer}{R\bibinithyphendelim R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=503cd19a308e628f8c3c180226f29eb2}{Galliano}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fe5ef820f3026b9bb37ca650acd7fbb4}{Lebouteiller}{L\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{5}{}{%
-        {{uniquename=1,hash=a2a0a34b7bb9ee33028371d09032eec3}{{Croley}}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=5d04d6a70a71915c864c95001412a0b8}{{Stock}}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{{Rosolowsky}}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3604e7584ea78b14bdb7bd6596bdafec}{Remy-Ruyer}{R\bibinithyphendelim R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=503cd19a308e628f8c3c180226f29eb2}{Galliano}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fe5ef820f3026b9bb37ca650acd7fbb4}{Lebouteiller}{L\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{41afce9e9b29a0455568d3b90fbccce8}
-      \strng{fullhash}{41afce9e9b29a0455568d3b90fbccce8}
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \strng{namehash}{88aa533aebc374fe3a0131acd09167e1}
+      \strng{fullhash}{88aa533aebc374fe3a0131acd09167e1}
       \field{sortinit}{2}
       \field{labelyear}{2014}
-      \field{labelmonth}{09}
+      \field{labelmonth}{07}
       \field{datelabelsource}{}
-      \field{labeltitle}{{The Andromeda Abundance Gradient}}
-      \field{eprintclass}{astro-ph.GA}
-      \field{eprinttype}{arXiv}
-      \field{journaltitle}{MNRAS, submitted}
-      \field{month}{09}
-      \field{title}{{The Andromeda Abundance Gradient}}
+      \field{labeltitle}{{Star formation and interstellar medium in NGC1569}}
+      \field{booktitle}{European Week of Astronomy and Space Science meeting}
+      \field{month}{07}
+      \field{title}{{Star formation and interstellar medium in NGC1569}}
       \field{year}{2014}
-      \field{pages}{}
-      \verb{eprint}
-      \verb 140x.xxxx
-      \endverb
-      \keyw{ref}
+      \keyw{unref}
     \endentry
     \entry{2014lianou}{article}{}
       \name{labelname}{6}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{{Lianou}}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4424f76f77048ab8cee8c9f71a7c9a54}{{R{\'e}my-Ruyer}}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=a725e4ef37cdc36121aa1293f454590c}{{Madden}}{M\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=503cd19a308e628f8c3c180226f29eb2}{{Galliano}}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fe5ef820f3026b9bb37ca650acd7fbb4}{{Lebouteiller}}{L\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=503cd19a308e628f8c3c180226f29eb2}{{Galliano}}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fe5ef820f3026b9bb37ca650acd7fbb4}{{Lebouteiller}}{L\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{{Lianou}}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4424f76f77048ab8cee8c9f71a7c9a54}{{R{\'e}my-Ruyer}}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=a725e4ef37cdc36121aa1293f454590c}{{Madden}}{M\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=503cd19a308e628f8c3c180226f29eb2}{{Galliano}}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fe5ef820f3026b9bb37ca650acd7fbb4}{{Lebouteiller}}{L\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=503cd19a308e628f8c3c180226f29eb2}{{Galliano}}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=fe5ef820f3026b9bb37ca650acd7fbb4}{{Lebouteiller}}{L\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{690b63d85e359cfb50f8c180c6db3bfb}
-      \strng{fullhash}{690b63d85e359cfb50f8c180c6db3bfb}
+      \strng{namehash}{56183a6ca565f902c647b3ecbe63f136}
+      \strng{fullhash}{56183a6ca565f902c647b3ecbe63f136}
       \field{sortinit}{2}
       \field{labelyear}{2014}
       \field{labelmonth}{10}
@@ -190,47 +1072,81 @@
       \field{volume}{445}
       \field{year}{2014}
       \field{pages}{1003}
+      \verb{doi}
+      \verb 10.1093/mnras/stu1770
+      \endverb
       \verb{eprint}
       \verb 1408.6792
       \endverb
-      \keyw{ref,csa}
+      \keyw{ref,csa,nearby}
     \endentry
-    \entry{nandra14}{article}{}
-      \true{morelabelname}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=65f77a5a2eaeedc19785d9a9706aac0d}{{Nandra}}{N\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+    \entry{lianou14}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=2de4f4ce8fd77b0423e9909cdd93a0a4}{Xilouris}{X\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{Barmby}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
-      \true{moreauthor}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=65f77a5a2eaeedc19785d9a9706aac0d}{{Nandra}}{N\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=2de4f4ce8fd77b0423e9909cdd93a0a4}{Xilouris}{X\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{Barmby}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{a5238c49fdf88dfcf388a99b6177ccf8}
-      \strng{fullhash}{a5238c49fdf88dfcf388a99b6177ccf8}
+      \list{location}{1}{%
+        {Quebec}%
+      }
+      \strng{namehash}{fb0e1fad9eda9f9a79200dd6519f3fcb}
+      \strng{fullhash}{fb0e1fad9eda9f9a79200dd6519f3fcb}
       \field{sortinit}{2}
       \field{labelyear}{2014}
-      \field{labelmonth}{05}
+      \field{labelmonth}{06}
       \field{datelabelsource}{}
-      \field{labeltitle}{{AEGIS-X: Deep Chandra Imaging of the Central Groth Strip}}
-      \field{journaltitle}{ApJS, submitted}
-      \field{month}{05}
-      \field{title}{{AEGIS-X: Deep Chandra Imaging of the Central Groth Strip}}
+      \field{labeltitle}{{Dust and gas in early-type galaxies}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{06}
+      \field{title}{{Dust and gas in early-type galaxies}}
       \field{year}{2014}
-      \field{pages}{}
-      \keyw{ref}
+      \keyw{unref}
+    \endentry
+    \entry{rahmani14}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Marseille}%
+      }
+      \strng{namehash}{d58c8752dc75fe837451c42925f850e2}
+      \strng{fullhash}{d58c8752dc75fe837451c42925f850e2}
+      \field{sortinit}{2}
+      \field{labelyear}{2014}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Which Star Formation Law in M31?}}
+      \field{booktitle}{Galactic and Extragalactic Star Formation}
+      \field{month}{09}
+      \field{title}{{Which Star Formation Law in M31?}}
+      \field{year}{2014}
+      \keyw{unref}
     \endentry
     \entry{2014vulic}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{{Vulic}}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{{Vulic}}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5dbaec3aeb95d2408f2bde2a16caf631}
-      \strng{fullhash}{5dbaec3aeb95d2408f2bde2a16caf631}
+      \strng{namehash}{d319988b4a09c07fd942176d59b877af}
+      \strng{fullhash}{d319988b4a09c07fd942176d59b877af}
       \field{sortinit}{2}
       \field{labelyear}{2014}
       \field{labelmonth}{08}
@@ -244,28 +1160,57 @@
       \field{volume}{790}
       \field{year}{2014}
       \field{pages}{136}
+      \verb{doi}
+      \verb 10.1088/0004-637X/790/2/136
+      \endverb
       \verb{eprint}
       \verb 1406.4121
       \endverb
-      \keyw{ref,csa}
+      \keyw{ref,csa,nearby}
     \endentry
-    \entry{2013AJ....146..135A}{article}{}
+    \entry{2014HEAD...1411005V}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=65a485ef11075972c46e80f0b55b1216}{{Gallagher}}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=65a485ef11075972c46e80f0b55b1216}{{Gallagher}}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d79e0d0e43b5cc10a4d55b5dd85224e3}
+      \strng{fullhash}{d79e0d0e43b5cc10a4d55b5dd85224e3}
+      \field{sortinit}{2}
+      \field{labelyear}{2014}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Faint X-Ray Binaries and Their Optical Counterparts in M31}}
+      \field{booktitle}{AAS/High Energy Astrophysics Division}
+      \field{month}{08}
+      \field{series}{AAS/High Energy Astrophysics Division}
+      \field{title}{{Faint X-Ray Binaries and Their Optical Counterparts in M31}}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{110.05}
+      \keyw{unref}
+    \endentry
+    \entry{2013agar}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=1,hash=11edeefd4648830aafd970b50317c370}{{Agar}}{A\bibinitperiod}{J.\bibnamedelimi R.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e2eb75f3d29cdcab0872a443ea0a36b5}{{\mkbibbold{{Agar},\bibnamedelimb J.R.R.}}}{{\mkbibbold{{Agar}, J.R.R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=1,hash=11edeefd4648830aafd970b50317c370}{{Agar}}{A\bibinitperiod}{J.\bibnamedelimi R.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e2eb75f3d29cdcab0872a443ea0a36b5}{{\mkbibbold{{Agar},\bibnamedelimb J.R.R.}}}{{\mkbibbold{{Agar}, J.R.R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{dcf0f9d3ec0a4d58b4763ceb24c7e713}
-      \strng{fullhash}{dcf0f9d3ec0a4d58b4763ceb24c7e713}
+      \strng{namehash}{f7e2368a41d0cd7a8396b16f8c5c636d}
+      \strng{fullhash}{f7e2368a41d0cd7a8396b16f8c5c636d}
       \field{sortinit}{2}
       \field{labelyear}{2013}
       \field{labelmonth}{11}
       \field{datelabelsource}{}
       \field{labeltitle}{{M31 Globular Cluster Structures and the Presence of X-Ray Binaries}}
-      \field{eid}{135}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -280,9 +1225,9 @@
       \verb{eprint}
       \verb 1308.6748
       \endverb
-      \keyw{ref,galaxies: individual: M31,galaxies: star clusters: general,X-rays: binaries}
+      \keyw{ref,nearby,galaxies: individual: M31,galaxies: star clusters: general,X-rays: binaries}
     \endentry
-    \entry{2013ApJ...769...80A}{article}{}
+    \entry{2013ashby}{article}{}
       \name{labelname}{45}{}{%
         {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
@@ -384,7 +1329,6 @@
       \field{labelmonth}{05}
       \field{datelabelsource}{}
       \field{labeltitle}{{SEDS: The Spitzer Extended Deep Survey. Survey Design, Photometry, and Deep IRAC Source Counts}}
-      \field{eid}{80}
       \field{journaltitle}{ApJ}
       \field{month}{05}
       \field{title}{{SEDS: The Spitzer Extended Deep Survey. Survey Design, Photometry, and Deep IRAC Source Counts}}
@@ -421,20 +1365,20 @@
     \endentry
     \entry{hemachandra13}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=9cbe9c153e28bc5ac28cf70eb76f3e9f}{Hemachandra}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=50a50c665c2103cee1f9cdcafcaaaf27}{{\mkbibbold{{Hemachandra},\bibnamedelimb S.}}}{{\mkbibbold{{Hemachandra}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=9cbe9c153e28bc5ac28cf70eb76f3e9f}{Hemachandra}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=50a50c665c2103cee1f9cdcafcaaaf27}{{\mkbibbold{{Hemachandra},\bibnamedelimb S.}}}{{\mkbibbold{{Hemachandra}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Vancouver}%
       }
-      \strng{namehash}{acf2e7030255702709b77ce62bf06cf4}
-      \strng{fullhash}{acf2e7030255702709b77ce62bf06cf4}
+      \strng{namehash}{340051e13aba326479b3cbc32f387f41}
+      \strng{fullhash}{340051e13aba326479b3cbc32f387f41}
       \field{sortinit}{2}
       \field{labelyear}{2013}
       \field{labelmonth}{05}
@@ -446,7 +1390,7 @@
       \field{year}{2013}
       \keyw{unref}
     \endentry
-    \entry{2013ApJ...766...21H}{article}{}
+    \entry{2013huang}{article}{}
       \name{labelname}{17}{}{%
         {{uniquename=1,hash=b8df140c130daa751bc010a6af597fa0}{{Huang}}{H\bibinitperiod}{J.-S.}{J\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3b00fb081dabebf3379555876207b76f}{{Faber}}{F\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -492,7 +1436,6 @@
       \field{labelmonth}{03}
       \field{datelabelsource}{}
       \field{labeltitle}{{Multi-Wavelength Study of a Complete IRAC 3.6 {$\mu$}m Selected Galaxy Sample: A Fair Census of Red and Blue Populations at Redshifts 0.4-1.2}}
-      \field{eid}{21}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -511,22 +1454,22 @@
     \endentry
     \entry{lianou13b}{inproceedings}{}
       \name{labelname}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{Lianou}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{Lianou}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Vancouver}%
       }
-      \strng{namehash}{ad9d9749613fb9612dbdde801605e07e}
-      \strng{fullhash}{ad9d9749613fb9612dbdde801605e07e}
+      \strng{namehash}{d691ef38ac3202a2cbdb0d61408b99fd}
+      \strng{fullhash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \field{sortinit}{2}
       \field{extrayear}{1}
       \field{labelyear}{2013}
@@ -541,22 +1484,22 @@
     \endentry
     \entry{lianou13c}{inproceedings}{}
       \name{labelname}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{Lianou}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{Lianou}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Hamilton}%
       }
-      \strng{namehash}{ad9d9749613fb9612dbdde801605e07e}
-      \strng{fullhash}{ad9d9749613fb9612dbdde801605e07e}
+      \strng{namehash}{d691ef38ac3202a2cbdb0d61408b99fd}
+      \strng{fullhash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \field{sortinit}{2}
       \field{extrayear}{2}
       \field{labelyear}{2013}
@@ -569,26 +1512,53 @@
       \field{year}{2013}
       \keyw{unref}
     \endentry
-    \entry{2013hell.confR..27L}{inproceedings}{}
+    \entry{lianou13}{inproceedings}{}
       \name{labelname}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{{Lianou}}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{{Madden}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{{Remy}}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{{Lianou}}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{{Madden}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{{Remy}}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Athens, Greece}%
       }
-      \strng{namehash}{ad9d9749613fb9612dbdde801605e07e}
-      \strng{fullhash}{ad9d9749613fb9612dbdde801605e07e}
+      \strng{namehash}{d691ef38ac3202a2cbdb0d61408b99fd}
+      \strng{fullhash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \field{sortinit}{2}
       \field{extrayear}{3}
+      \field{labelyear}{2013}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Probing the Interstellar Medium of the NGC1569 Super Star Cluster Population with {\it Herschel}}}
+      \field{booktitle}{Hellenic Astronomical Society 11th meeting}
+      \field{month}{09}
+      \field{title}{{Probing the Interstellar Medium of the NGC1569 Super Star Cluster Population with {\it Herschel}}}
+      \field{year}{2013}
+      \keyw{unref}
+    \endentry
+    \entry{2013hell.confR..27L}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13b69a771bd1821b40fc031af09cad05}{{\mkbibbold{{Taylor},\bibnamedelimb J.C.}}}{{\mkbibbold{{Taylor}, J.C.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=dd0794ad10beb4c61cc907f7e2eb2687}{{\mkbibbold{{Lianou},\bibnamedelimb S.}}}{{\mkbibbold{{Lianou}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13b69a771bd1821b40fc031af09cad05}{{\mkbibbold{{Taylor},\bibnamedelimb J.C.}}}{{\mkbibbold{{Taylor}, J.C.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Athens, Greece}%
+      }
+      \strng{namehash}{45a47d4a9e352b23440270e28a25071d}
+      \strng{fullhash}{45a47d4a9e352b23440270e28a25071d}
+      \field{sortinit}{2}
       \field{labelyear}{2013}
       \field{labelmonth}{09}
       \field{datelabelsource}{}
@@ -599,36 +1569,6 @@
       \field{year}{2013}
       \field{pages}{27\bibrangedash 27}
       \keyw{unref,csa}
-    \endentry
-    \entry{lianou13}{inproceedings}{}
-      \name{labelname}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{Lianou}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{uniquename=1,hash=6ae1d05aafef5cdb4566cb98abe69607}{Lianou}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=93a0e010343de12a288049db640b825d}{Madden}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=4e8581e46fd5e1217069f20813f0f8b7}{Remy}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Athens, Greece}%
-      }
-      \strng{namehash}{ad9d9749613fb9612dbdde801605e07e}
-      \strng{fullhash}{ad9d9749613fb9612dbdde801605e07e}
-      \field{sortinit}{2}
-      \field{extrayear}{4}
-      \field{labelyear}{2013}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Probing the Interstellar Medium of the NGC1569 Super Star Cluster Population with {\it Herschel}}}
-      \field{booktitle}{Hellenic Astronomical Society 11th meeting}
-      \field{month}{09}
-      \field{title}{{Probing the Interstellar Medium of the NGC1569 Super Star Cluster Population with {\it Herschel}}}
-      \field{year}{2013}
-      \keyw{unref}
     \endentry
     \entry{2013ASSP...31...99M}{inproceedings}{}
       \name{labelname}{10}{}{%
@@ -680,18 +1620,18 @@
     \endentry
     \entry{rahmani13}{inproceedings}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=fe41568110632cbbfbb886cd6bb0e57b}{Rahmani}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=fe41568110632cbbfbb886cd6bb0e57b}{Rahmani}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35ea674caa2f71b1937207ad8f8c286c}{{\mkbibbold{{Rahmani},\bibnamedelimb S.}}}{{\mkbibbold{{Rahmani}, S.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Vancouver}%
       }
-      \strng{namehash}{02f3f0ab034e46435968fe80c6eb1fe9}
-      \strng{fullhash}{02f3f0ab034e46435968fe80c6eb1fe9}
+      \strng{namehash}{d58c8752dc75fe837451c42925f850e2}
+      \strng{fullhash}{d58c8752dc75fe837451c42925f850e2}
       \field{sortinit}{2}
       \field{labelyear}{2013}
       \field{labelmonth}{05}
@@ -703,25 +1643,24 @@
       \field{year}{2013}
       \keyw{unref}
     \endentry
-    \entry{2013ApJ...763...96V}{article}{}
+    \entry{2013vulic}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{{Vulic}}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{{Vulic}}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=fb3e529e38d44f4a146a9b7843f7c28c}{{Gallagher}}{G\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{d7b80d18383f38fc06a6ef937e422b16}
-      \strng{fullhash}{d7b80d18383f38fc06a6ef937e422b16}
+      \strng{namehash}{cd94b5d21d83f5d624e693240fed2900}
+      \strng{fullhash}{cd94b5d21d83f5d624e693240fed2900}
       \field{sortinit}{2}
       \field{labelyear}{2013}
       \field{labelmonth}{02}
       \field{datelabelsource}{}
       \field{labeltitle}{{Stacking Star Clusters in M51: Searching for Faint X-Ray Binaries}}
-      \field{eid}{96}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -740,20 +1679,20 @@
     \endentry
     \entry{vulic13}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{Gallagher}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{Gallagher}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Vancouver}%
       }
-      \strng{namehash}{3a6aea677125f7ff4e40b319984f6119}
-      \strng{fullhash}{3a6aea677125f7ff4e40b319984f6119}
+      \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
+      \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
       \field{labelyear}{2013}
       \field{labelmonth}{05}
@@ -767,18 +1706,18 @@
     \endentry
     \entry{agar12}{inproceedings}{}
       \name{labelname}{2}{}{%
-        {{uniquename=1,hash=c41c6e4a21dcddd8a115b0d1d7c80c64}{Agar}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b84e99b23bd8618797fca06de6fe83fc}{{\mkbibbold{{Agar},\bibnamedelimb J.}}}{{\mkbibbold{{Agar}, J.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=1,hash=c41c6e4a21dcddd8a115b0d1d7c80c64}{Agar}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b84e99b23bd8618797fca06de6fe83fc}{{\mkbibbold{{Agar},\bibnamedelimb J.}}}{{\mkbibbold{{Agar}, J.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Calgary}%
       }
-      \strng{namehash}{5710aafb3beb242dea65e879cbc16a58}
-      \strng{fullhash}{5710aafb3beb242dea65e879cbc16a58}
+      \strng{namehash}{a116a993a889610a852d944a084b368d}
+      \strng{fullhash}{a116a993a889610a852d944a084b368d}
       \field{sortinit}{2}
       \field{labelyear}{2012}
       \field{labelmonth}{06}
@@ -792,20 +1731,20 @@
     \endentry
     \entry{azimlu12}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{Marciniak}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{Marciniak}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Princeton}%
       }
-      \strng{namehash}{c474eba843a88628e2c5c85b9638e8bb}
-      \strng{fullhash}{c474eba843a88628e2c5c85b9638e8bb}
+      \strng{namehash}{39168903ac96e01006340ece4b773559}
+      \strng{fullhash}{39168903ac96e01006340ece4b773559}
       \field{sortinit}{2}
       \field{labelyear}{2012}
       \field{labelmonth}{06}
@@ -840,23 +1779,22 @@
       \field{year}{2012}
       \keyw{unref}
     \endentry
-    \entry{2012AJ....143...87B}{article}{}
+    \entry{2012barmby}{article}{}
       \name{labelname}{2}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=e13a2cd643d04f2d1123bbb5db0d77a0}{{Jalilian}}{J\bibinitperiod}{F.\bibnamedelimi F.}{F\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bccd1130021b5142a3a4a56ac9f6b29b}{{\mkbibbold{{Jalilian},\bibnamedelimb F.\bibnamedelimi F.}}}{{\mkbibbold{{Jalilian}, F. F.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{2}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=e13a2cd643d04f2d1123bbb5db0d77a0}{{Jalilian}}{J\bibinitperiod}{F.\bibnamedelimi F.}{F\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bccd1130021b5142a3a4a56ac9f6b29b}{{\mkbibbold{{Jalilian},\bibnamedelimb F.\bibnamedelimi F.}}}{{\mkbibbold{{Jalilian}, F. F.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{0a4f984a91b24f8a6433da1b9b401804}
-      \strng{fullhash}{0a4f984a91b24f8a6433da1b9b401804}
+      \strng{namehash}{51ee34bb92d2b8a82e47fd5d3319861f}
+      \strng{fullhash}{51ee34bb92d2b8a82e47fd5d3319861f}
       \field{sortinit}{2}
       \field{labelyear}{2012}
       \field{labelmonth}{04}
       \field{datelabelsource}{}
       \field{labeltitle}{{Comparing Mid-infrared Globular Cluster Colors with Population Synthesis Models}}
-      \field{eid}{87}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -871,7 +1809,7 @@
       \verb{eprint}
       \verb 1201.5296
       \endverb
-      \keyw{csa,ref,galaxies: individual: M31,galaxies: star clusters: general,infrared: stars,stars: Population II}
+      \keyw{nearby,csa,ref,galaxies: individual: M31,galaxies: star clusters: general,infrared: stars,stars: Population II}
     \endentry
     \entry{2012AAS...21924416B}{inproceedings}{}
       \name{labelname}{15}{}{%
@@ -886,7 +1824,7 @@
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=6b27134415c30f30778f95abc7eb8189}{{McQuinn}}{M\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=9cb9bd2bca81efdc04c2573180726971}{{Zijlstra}}{Z\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -903,7 +1841,7 @@
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=6b27134415c30f30778f95abc7eb8189}{{McQuinn}}{M\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8d87c65f8fd9bc5347503c2dfe6c18a8}{{Meixner}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=37f3e62a3c05370e678e35d5411c6b45}{{Skillman}}{S\bibinitperiod}{E.\bibnamedelimi D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bfcca2f770dcc4daab9f60e54461093a}{{Sloan}}{S\bibinitperiod}{G.\bibnamedelimi C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=9cb9bd2bca81efdc04c2573180726971}{{Zijlstra}}{Z\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -925,22 +1863,22 @@
     \endentry
     \entry{croley12}{inproceedings}{}
       \name{labelname}{4}{}{%
-        {{uniquename=1,hash=a2a0a34b7bb9ee33028371d09032eec3}{Croley}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b6bbacce50f5c64556f9067b6922b1d}{{\mkbibbold{{Croley},\bibnamedelimb M.}}}{{\mkbibbold{{Croley}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{Rosolowsky}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=1,hash=a2a0a34b7bb9ee33028371d09032eec3}{Croley}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b6bbacce50f5c64556f9067b6922b1d}{{\mkbibbold{{Croley},\bibnamedelimb M.}}}{{\mkbibbold{{Croley}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{Rosolowsky}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {San Francisco}%
       }
-      \strng{namehash}{a65a2efc000007143d57a983922f449d}
-      \strng{fullhash}{a65a2efc000007143d57a983922f449d}
+      \strng{namehash}{ea1f979eeac6641cede58b225f207ba6}
+      \strng{fullhash}{ea1f979eeac6641cede58b225f207ba6}
       \field{sortinit}{2}
       \field{extrayear}{1}
       \field{labelyear}{2012}
@@ -955,22 +1893,22 @@
     \endentry
     \entry{croley12b}{inproceedings}{}
       \name{labelname}{4}{}{%
-        {{uniquename=1,hash=a2a0a34b7bb9ee33028371d09032eec3}{Croley}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b6bbacce50f5c64556f9067b6922b1d}{{\mkbibbold{{Croley},\bibnamedelimb M.}}}{{\mkbibbold{{Croley}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{Rosolowsky}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=1,hash=a2a0a34b7bb9ee33028371d09032eec3}{Croley}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b6bbacce50f5c64556f9067b6922b1d}{{\mkbibbold{{Croley},\bibnamedelimb M.}}}{{\mkbibbold{{Croley}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=dc002332535b76a2b722aacf680471f2}{Rosolowsky}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Calgary}%
       }
-      \strng{namehash}{a65a2efc000007143d57a983922f449d}
-      \strng{fullhash}{a65a2efc000007143d57a983922f449d}
+      \strng{namehash}{ea1f979eeac6641cede58b225f207ba6}
+      \strng{fullhash}{ea1f979eeac6641cede58b225f207ba6}
       \field{sortinit}{2}
       \field{extrayear}{2}
       \field{labelyear}{2012}
@@ -985,20 +1923,20 @@
     \endentry
     \entry{farhani12}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=0f0721c7adf1b3b60e89d70041281b14}{Farhani}{F\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce30b68f3508cef120356ac4dc12612c}{{\mkbibbold{{Farhani},\bibnamedelimb G.}}}{{\mkbibbold{{Farhani}, G.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=04bd1531326d020bbf83c8737d423e88}{Peng}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=0f0721c7adf1b3b60e89d70041281b14}{Farhani}{F\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce30b68f3508cef120356ac4dc12612c}{{\mkbibbold{{Farhani},\bibnamedelimb G.}}}{{\mkbibbold{{Farhani}, G.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=04bd1531326d020bbf83c8737d423e88}{Peng}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Calgary}%
       }
-      \strng{namehash}{c42726dbc492f8231e97deaf4b33872c}
-      \strng{fullhash}{c42726dbc492f8231e97deaf4b33872c}
+      \strng{namehash}{86f010a2471a46390fe0ee1d6048c0ed}
+      \strng{fullhash}{86f010a2471a46390fe0ee1d6048c0ed}
       \field{sortinit}{2}
       \field{labelyear}{2012}
       \field{labelmonth}{06}
@@ -1010,13 +1948,13 @@
       \field{year}{2012}
       \keyw{unref}
     \endentry
-    \entry{2012MNRAS.422.3208S}{article}{}
+    \entry{2012sanchez}{article}{}
       \name{labelname}{6}{}{%
         {{uniquename=0,hash=b73379647775da7197a998e261bb5a18}{{S{\'a}nchez-Gallego}}{S\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=5f5524e1734858215c0035273306abcd}{{Knapen}}{K\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=0,hash=30b4849b67e61685cc47a6de00a424be}{{Courteau}}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
@@ -1024,11 +1962,11 @@
         {{uniquename=0,hash=5f5524e1734858215c0035273306abcd}{{Knapen}}{K\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=0,hash=30b4849b67e61685cc47a6de00a424be}{{Courteau}}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{05abea5f834d174f02286e3c6ac48067}
-      \strng{fullhash}{05abea5f834d174f02286e3c6ac48067}
+      \strng{namehash}{59ae49e2c6ae30dd41aeb62dbc92f30f}
+      \strng{fullhash}{59ae49e2c6ae30dd41aeb62dbc92f30f}
       \field{sortinit}{2}
       \field{labelyear}{2012}
       \field{labelmonth}{06}
@@ -1048,24 +1986,24 @@
       \verb{eprint}
       \verb 1203.0001
       \endverb
-      \keyw{ref,surveys,stars: massive,H II regions,galaxies: star formation,galaxies: ISM}
+      \keyw{nearby,ref,surveys,stars: massive,H II regions,galaxies: star formation,galaxies: ISM}
     \endentry
     \entry{vulic12}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{Gallagher}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{Gallagher}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Boston}%
       }
-      \strng{namehash}{3a6aea677125f7ff4e40b319984f6119}
-      \strng{fullhash}{3a6aea677125f7ff4e40b319984f6119}
+      \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
+      \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
       \field{extrayear}{1}
       \field{labelyear}{2012}
@@ -1080,20 +2018,20 @@
     \endentry
     \entry{vulic12b}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{Gallagher}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=5b88b024758736cc4cb8baa5070c83d7}{Gallagher}{G\bibinitperiod}{S.C.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Calgary}%
       }
-      \strng{namehash}{3a6aea677125f7ff4e40b319984f6119}
-      \strng{fullhash}{3a6aea677125f7ff4e40b319984f6119}
+      \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
+      \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
       \field{extrayear}{2}
       \field{labelyear}{2012}
@@ -1106,7 +2044,7 @@
       \field{year}{2012}
       \keyw{unref}
     \endentry
-    \entry{2012ApJ...756...72W}{article}{}
+    \entry{2012willner}{article}{}
       \name{labelname}{9}{}{%
         {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -1136,7 +2074,6 @@
       \field{labelmonth}{09}
       \field{datelabelsource}{}
       \field{labeltitle}{{A Fully Identified Sample of AEGIS20 Microjansky Radio Sources}}
-      \field{eid}{72}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -1153,7 +2090,7 @@
       \endverb
       \keyw{ref,galaxies: active,galaxies: high-redshift,galaxies: photometry,infrared: galaxies,radio continuum: galaxies,csa}
     \endentry
-    \entry{2012MNRAS.424.3050W}{article}{}
+    \entry{2012wilson}{article}{}
       \name{labelname}{58}{}{%
         {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2ed7dfc9a3a05393975711d2fd135503}{{Warren}}{W\bibinitperiod}{B.\bibnamedelimi E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
@@ -1297,7 +2234,7 @@
       \endverb
       \keyw{ref,stars: formation,ISM: molecules,galaxies: ISM,galaxies: kinematics and dynamics,galaxies: spiral}
     \endentry
-    \entry{2011PASP..123.1011A}{article}{}
+    \entry{2011ashby}{article}{}
       \name{labelname}{20}{}{%
         {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=afeb550f950f90b2846025ca3a22107d}{{Mahajan}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
@@ -1363,7 +2300,7 @@
       \verb{eprint}
       \verb 1107.2570
       \endverb
-      \keyw{ref,Galaxies}
+      \keyw{nearby,ref,Galaxies}
     \endentry
     \entry{2011AAS...21813003A}{inproceedings}{}
       \name{labelname}{20}{}{%
@@ -1426,17 +2363,17 @@
     \endentry
     \entry{2011AAS...21810602A}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{{Marciniak}}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{{Marciniak}}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{75b1bc8b76b792d25a5fe32db88fd463}
-      \strng{fullhash}{75b1bc8b76b792d25a5fe32db88fd463}
+      \strng{namehash}{7fb19fcaa8f500b3cc307770078acd42}
+      \strng{fullhash}{7fb19fcaa8f500b3cc307770078acd42}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{05}
@@ -1449,26 +2386,25 @@
       \field{pages}{106.02}
       \keyw{unref}
     \endentry
-    \entry{2011AJ....142..139A}{article}{}
+    \entry{2011azimlu}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{{Marciniak}}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{{Marciniak}}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{c474eba843a88628e2c5c85b9638e8bb}
-      \strng{fullhash}{c474eba843a88628e2c5c85b9638e8bb}
+      \strng{namehash}{39168903ac96e01006340ece4b773559}
+      \strng{fullhash}{39168903ac96e01006340ece4b773559}
       \field{sortinit}{2}
       \field{extrayear}{1}
       \field{labelyear}{2011}
       \field{labelmonth}{10}
       \field{datelabelsource}{}
       \field{labeltitle}{{A New Catalog of H II Regions in M31}}
-      \field{eid}{139}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -1483,24 +2419,24 @@
       \verb{eprint}
       \verb 1108.4044
       \endverb
-      \keyw{csa,ref,galaxies: individual: M31,H II regions}
+      \keyw{nearby,csa,ref,galaxies: individual: M31,H II regions}
     \endentry
     \entry{azimlu11b}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{Marciniak}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=70583c008b9be7432ab2542cfcb0ca85}{Marciniak}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=f29a09a9694210696f4a6de62502aef3}{{\mkbibbold{{Marciniak},\bibnamedelimb R.}}}{{\mkbibbold{{Marciniak}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {London}%
       }
-      \strng{namehash}{c474eba843a88628e2c5c85b9638e8bb}
-      \strng{fullhash}{c474eba843a88628e2c5c85b9638e8bb}
+      \strng{namehash}{39168903ac96e01006340ece4b773559}
+      \strng{fullhash}{39168903ac96e01006340ece4b773559}
       \field{sortinit}{2}
       \field{extrayear}{2}
       \field{labelyear}{2011}
@@ -1543,14 +2479,14 @@
     \entry{2011AAS...21813312B}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=e13a2cd643d04f2d1123bbb5db0d77a0}{{Jalilian}}{J\bibinitperiod}{F.\bibnamedelimi F.}{F\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bccd1130021b5142a3a4a56ac9f6b29b}{{\mkbibbold{{Jalilian},\bibnamedelimb F.\bibnamedelimi F.}}}{{\mkbibbold{{Jalilian}, F. F.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{2}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=e13a2cd643d04f2d1123bbb5db0d77a0}{{Jalilian}}{J\bibinitperiod}{F.\bibnamedelimi F.}{F\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bccd1130021b5142a3a4a56ac9f6b29b}{{\mkbibbold{{Jalilian},\bibnamedelimb F.\bibnamedelimi F.}}}{{\mkbibbold{{Jalilian}, F. F.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{0a4f984a91b24f8a6433da1b9b401804}
-      \strng{fullhash}{0a4f984a91b24f8a6433da1b9b401804}
+      \strng{namehash}{51ee34bb92d2b8a82e47fd5d3319861f}
+      \strng{fullhash}{51ee34bb92d2b8a82e47fd5d3319861f}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{05}
@@ -1566,17 +2502,17 @@
     \entry{barmby11}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=f675f246325335bcb7ea633fbce12beb}{Jalilian}{J\bibinitperiod}{F.F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=094a122eb541fdd2a48f54a0d5805910}{{\mkbibbold{{Jalilian},\bibnamedelimb F.F.}}}{{\mkbibbold{{Jalilian}, F.F.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{2}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=f675f246325335bcb7ea633fbce12beb}{Jalilian}{J\bibinitperiod}{F.F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=094a122eb541fdd2a48f54a0d5805910}{{\mkbibbold{{Jalilian},\bibnamedelimb F.F.}}}{{\mkbibbold{{Jalilian}, F.F.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
       \list{location}{1}{%
         {London}%
       }
-      \strng{namehash}{7e7398c183958c5466fd9747acd7baed}
-      \strng{fullhash}{7e7398c183958c5466fd9747acd7baed}
+      \strng{namehash}{da6bbd6e97bd6801d7dfa23399c9d7da}
+      \strng{fullhash}{da6bbd6e97bd6801d7dfa23399c9d7da}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{06}
@@ -1588,7 +2524,7 @@
       \field{year}{2011}
       \keyw{unref}
     \endentry
-    \entry{2011AJ....141...42B}{article}{}
+    \entry{2011barmby}{article}{}
       \name{labelname}{8}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
@@ -1616,7 +2552,6 @@
       \field{labelmonth}{02}
       \field{datelabelsource}{}
       \field{labeltitle}{{Galactic Cepheids with Spitzer. II. Search for Extended Infrared Emission}}
-      \field{eid}{42}
       \field{eprintclass}{astro-ph.SR}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -1631,9 +2566,9 @@
       \verb{eprint}
       \verb 1011.3386
       \endverb
-      \keyw{ref,infrared: stars,stars: mass-loss,stars: variables: Cepheids}
+      \keyw{nearby,ref,infrared: stars,stars: mass-loss,stars: variables: Cepheids}
     \endentry
-    \entry{2011MNRAS.410.2556D}{article}{}
+    \entry{2011dominguez}{article}{}
       \name{labelname}{18}{}{%
         {{uniquename=0,hash=1d986704c82019bf654977d7a2a7ebd8}{{Dom{\'{\i}}nguez}}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c1dd0bb0483188f0e93f0d4668a21e29}{{Primack}}{P\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
@@ -1699,24 +2634,24 @@
     \endentry
     \entry{hill11}{inproceedings}{}
       \name{labelname}{5}{}{%
-        {{uniquename=0,hash=0e2b128b1fd241189bd6cd796eab5856}{Hill}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b70b355f8ef7db3a8e7edbfa4bdd9aa}{{\mkbibbold{{Hill},\bibnamedelimb A.}}}{{\mkbibbold{{Hill}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=65a485ef11075972c46e80f0b55b1216}{Gallagher}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c443241192aa583e1940f026e4582b5b}{Fedotov}{F\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cb7313f66dcb07772a71292884c55d3}{{\mkbibbold{{Fedotov},\bibnamedelimb K.}}}{{\mkbibbold{{Fedotov}, K.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=0,hash=306b2defb559180d335fe148758983ee}{Tzanavaris}{T\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
-        {{uniquename=0,hash=0e2b128b1fd241189bd6cd796eab5856}{Hill}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b70b355f8ef7db3a8e7edbfa4bdd9aa}{{\mkbibbold{{Hill},\bibnamedelimb A.}}}{{\mkbibbold{{Hill}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=65a485ef11075972c46e80f0b55b1216}{Gallagher}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c443241192aa583e1940f026e4582b5b}{Fedotov}{F\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cb7313f66dcb07772a71292884c55d3}{{\mkbibbold{{Fedotov},\bibnamedelimb K.}}}{{\mkbibbold{{Fedotov}, K.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=0,hash=306b2defb559180d335fe148758983ee}{Tzanavaris}{T\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {London}%
       }
-      \strng{namehash}{f70ecb20b121a952b4632d198c1599a1}
-      \strng{fullhash}{f70ecb20b121a952b4632d198c1599a1}
+      \strng{namehash}{e8bce33315a72dd6011a8a9c10d5d7a1}
+      \strng{fullhash}{e8bce33315a72dd6011a8a9c10d5d7a1}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{06}
@@ -1811,7 +2746,7 @@
       \endverb
       \keyw{unref}
     \endentry
-    \entry{2011A&A...527A..16S}{article}{}
+    \entry{2011sanchez}{article}{}
       \name{labelname}{15}{}{%
         {{uniquename=0,hash=b73379647775da7197a998e261bb5a18}{{S{\'a}nchez-Gallego}}{S\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=5f5524e1734858215c0035273306abcd}{{Knapen}}{K\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -1819,7 +2754,7 @@
         {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2ed7dfc9a3a05393975711d2fd135503}{{Warren}}{W\bibinitperiod}{B.\bibnamedelimi E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=eaaac2b783de6bf489a4c285367b502f}{{Allen}}{A\bibinitperiod}{R.\bibnamedelimi J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=369445b8579f21b50a62c827d9ffab9b}{{Bendo}}{B\bibinitperiod}{G.\bibnamedelimi J.}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3371aa9ad7dc24eb8d66293d81d65254}{{Comer{\'o}n}}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
@@ -1836,7 +2771,7 @@
         {{uniquename=1,hash=eba44ae85621c221802bd1b6298f783e}{{Wilson}}{W\bibinitperiod}{C.\bibnamedelimi D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2ed7dfc9a3a05393975711d2fd135503}{{Warren}}{W\bibinitperiod}{B.\bibnamedelimi E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=eaaac2b783de6bf489a4c285367b502f}{{Allen}}{A\bibinitperiod}{R.\bibnamedelimi J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{{Azimlu}}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=369445b8579f21b50a62c827d9ffab9b}{{Bendo}}{B\bibinitperiod}{G.\bibnamedelimi J.}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3371aa9ad7dc24eb8d66293d81d65254}{{Comer{\'o}n}}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
@@ -1846,14 +2781,13 @@
         {{uniquename=0,hash=36da015bbe5261ae5e2bb7550a47d4e3}{{Vlahakis}}{V\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e9438085992db2188b9fc74e51144c5e}{{van\bibnamedelimb der\bibnamedelimb Werf}}{v\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{d4d52b8ef1ca3e9616f7cb0444bcbad4}
-      \strng{fullhash}{d4d52b8ef1ca3e9616f7cb0444bcbad4}
+      \strng{namehash}{a1da78d531122acb8e48339b86c4bada}
+      \strng{fullhash}{a1da78d531122acb8e48339b86c4bada}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{03}
       \field{datelabelsource}{}
       \field{labeltitle}{{The JCMT Nearby Galaxies Legacy Survey. VI. The distribution of gas and star formation in M 81}}
-      \field{eid}{A16}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{A\&A}
@@ -1872,18 +2806,18 @@
     \endentry
     \entry{shiu11}{inproceedings}{}
       \name{labelname}{2}{}{%
-        {{uniquename=1,hash=09c8aa0bf1d29a0934e80d3ea279a944}{Shiu}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bb663c7ecc16dfddf3f06ecba755fa7}{{\mkbibbold{{Shiu},\bibnamedelimb H.}}}{{\mkbibbold{{Shiu}, H.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=1,hash=09c8aa0bf1d29a0934e80d3ea279a944}{Shiu}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bb663c7ecc16dfddf3f06ecba755fa7}{{\mkbibbold{{Shiu},\bibnamedelimb H.}}}{{\mkbibbold{{Shiu}, H.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {London}%
       }
-      \strng{namehash}{995207134fe11f562e310044f93276cd}
-      \strng{fullhash}{995207134fe11f562e310044f93276cd}
+      \strng{namehash}{5bf70d131d1fe79ba9be04affd93eb8e}
+      \strng{fullhash}{5bf70d131d1fe79ba9be04affd93eb8e}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{06}
@@ -1897,20 +2831,20 @@
     \endentry
     \entry{vulic11}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=65a485ef11075972c46e80f0b55b1216}{Gallagher}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=4ae51d556eb0fcebf4a80aaf75b50eb9}{Vulic}{V\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4b2180cb78be65aa5b5715b7f892652}{{\mkbibbold{{Vulic},\bibnamedelimb N.}}}{{\mkbibbold{{Vulic}, N.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=65a485ef11075972c46e80f0b55b1216}{Gallagher}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {London}%
       }
-      \strng{namehash}{41c97d51814579f2b179287d1b16592c}
-      \strng{fullhash}{41c97d51814579f2b179287d1b16592c}
+      \strng{namehash}{77ce5efaf27a06201093f81d5a3a9487}
+      \strng{fullhash}{77ce5efaf27a06201093f81d5a3a9487}
       \field{sortinit}{2}
       \field{labelyear}{2011}
       \field{labelmonth}{06}
@@ -1922,7 +2856,7 @@
       \field{year}{2011}
       \keyw{unref}
     \endentry
-    \entry{2011ApJ...728...38Y}{article}{}
+    \entry{2011yan}{article}{}
       \name{labelname}{22}{}{%
         {{uniquename=0,hash=aada4819780330090db1635259698913}{{Yan}}{Y\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1f67c9e7a2a9c1c7023cd53cf8081dff}{{Ho}}{H\bibinitperiod}{L.\bibnamedelimi C.}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
@@ -1978,7 +2912,6 @@
       \field{labelmonth}{02}
       \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: Demographics of X-ray and Optically Selected Active Galactic Nuclei}}
-      \field{eid}{38}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -2047,20 +2980,20 @@
     \endentry
     \entry{azimlu10}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=0,hash=e652867d7d09bae4058cec9e2eda739f}{Fich}{F\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=8a55f9348ada573b9a6aee5bc5ff2203}{Azimlu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=742e02eae5ebe388928ae6db832ae3b8}{{\mkbibbold{{Azimlu},\bibnamedelimb M.}}}{{\mkbibbold{{Azimlu}, M.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=0,hash=e652867d7d09bae4058cec9e2eda739f}{Fich}{F\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Gainesville, FL}%
       }
-      \strng{namehash}{406c3c8294790b79f59932a59f96418f}
-      \strng{fullhash}{406c3c8294790b79f59932a59f96418f}
+      \strng{namehash}{b0611f3509fb5ad09f3535ade903881e}
+      \strng{fullhash}{b0611f3509fb5ad09f3535ade903881e}
       \field{sortinit}{2}
       \field{labelyear}{2010}
       \field{labelmonth}{04}
@@ -2431,7 +3364,7 @@
       \verb{eprint}
       \verb 1102.0305
       \endverb
-      \keyw{ref,infrared: stars,stars: individual: delta Cephei,stars: mass-loss,stars: variables: Cepheids}
+      \keyw{nearby,ref,infrared: stars,stars: individual: delta Cephei,stars: mass-loss,stars: variables: Cepheids}
     \endentry
     \entry{2010AJ....139.1178N}{article}{}
       \name{labelname}{4}{}{%
@@ -2514,7 +3447,7 @@
       \endverb
       \keyw{ref,galaxies: active,infrared: galaxies,X-rays: galaxies}
     \endentry
-    \entry{2010A&A...511A..23P}{article}{}
+    \entry{2010perina}{article}{}
       \name{labelname}{14}{}{%
         {{uniquename=1,hash=22818ea642f2a12a884c97489902b6b9}{{Perina}}{P\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=43dd49b4610112896b580d88f3bd40c8}{{Cohen}}{C\bibinitperiod}{J.\bibnamedelimi G.}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -2554,7 +3487,6 @@
       \field{labelmonth}{02}
       \field{datelabelsource}{}
       \field{labeltitle}{{An HST/WFPC2 survey of bright young clusters in M 31. IV. Age and mass estimates}}
-      \field{eid}{A23}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{A\&A}
@@ -2613,18 +3545,18 @@
     \endentry
     \entry{shiu10}{inproceedings}{}
       \name{labelname}{2}{}{%
-        {{uniquename=1,hash=09c8aa0bf1d29a0934e80d3ea279a944}{Shiu}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bb663c7ecc16dfddf3f06ecba755fa7}{{\mkbibbold{{Shiu},\bibnamedelimb H.}}}{{\mkbibbold{{Shiu}, H.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=1,hash=09c8aa0bf1d29a0934e80d3ea279a944}{Shiu}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bb663c7ecc16dfddf3f06ecba755fa7}{{\mkbibbold{{Shiu},\bibnamedelimb H.}}}{{\mkbibbold{{Shiu}, H.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Halifax}%
       }
-      \strng{namehash}{995207134fe11f562e310044f93276cd}
-      \strng{fullhash}{995207134fe11f562e310044f93276cd}
+      \strng{namehash}{5bf70d131d1fe79ba9be04affd93eb8e}
+      \strng{fullhash}{5bf70d131d1fe79ba9be04affd93eb8e}
       \field{sortinit}{2}
       \field{labelyear}{2010}
       \field{labelmonth}{05}
@@ -2677,7 +3609,7 @@
         {{uniquename=1,hash=8b486a9a495d2d8623418c7e5117d3f1}{{Hora}}{H\bibinitperiod}{J.\bibnamedelimi L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b5a13a5953f5c826c9e81ba2aa0caa9b}{{Jarrett}}{J\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=09c8aa0bf1d29a0934e80d3ea279a944}{{Shiu}}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bb663c7ecc16dfddf3f06ecba755fa7}{{\mkbibbold{{Shiu},\bibnamedelimb H.}}}{{\mkbibbold{{Shiu}, H.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{6}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
@@ -2685,10 +3617,10 @@
         {{uniquename=1,hash=8b486a9a495d2d8623418c7e5117d3f1}{{Hora}}{H\bibinitperiod}{J.\bibnamedelimi L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=4e721700c3de5864706158d147c606ce}{{Gordon}}{G\bibinitperiod}{K.\bibnamedelimi D.}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b5a13a5953f5c826c9e81ba2aa0caa9b}{{Jarrett}}{J\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=09c8aa0bf1d29a0934e80d3ea279a944}{{Shiu}}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bb663c7ecc16dfddf3f06ecba755fa7}{{\mkbibbold{{Shiu},\bibnamedelimb H.}}}{{\mkbibbold{{Shiu}, H.}}\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{5e36b636a6f7510c65777e0933a8ec8c}
-      \strng{fullhash}{5e36b636a6f7510c65777e0933a8ec8c}
+      \strng{namehash}{18ce2dcb755aafe6c4cbc51f008f4059}
+      \strng{fullhash}{18ce2dcb755aafe6c4cbc51f008f4059}
       \field{sortinit}{2}
       \field{labelyear}{2009}
       \field{labelmonth}{05}
@@ -3242,7 +4174,7 @@
       \field{labeltitle}{{The remnants of galaxy formation from a panoramic survey of the region around M31}}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
-      \field{journaltitle}{\nat}
+      \field{journaltitle}{Nature}
       \field{month}{09}
       \field{title}{{The remnants of galaxy formation from a panoramic survey of the region around M31}}
       \field{volume}{461}
@@ -3254,6 +4186,7 @@
       \verb{eprint}
       \verb 0909.0398
       \endverb
+      \keyw{ref}
     \endentry
     \entry{2009A&A...494..933P}{article}{}
       \name{labelname}{15}{}{%
@@ -3978,7 +4911,7 @@
         {{uniquename=0,hash=86bed7427aeaa67bf889ae042c32ded6}{Devereux}{D\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=1c814ca74bbcb2d998f5d1fd41c5cdaf}{Fazio}{F\bibinitperiod}{G.G.}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=0c84ebcd581acfe37ad6ae0c50e1fa28}{Gordon}{G\bibinitperiod}{K.D.}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=8df8086acd4940926739e47534991c28}{Smith}{S\bibinitperiod}{H.A.}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=355ef130e597f7e1598171a3d95d72fc}{Thilker}{T\bibinitperiod}{D.A.}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=839689f52a57eaadb0155ccfd739c2c6}{Willner}{W\bibinitperiod}{S.P.}{S\bibinitperiod}{}{}{}{}}%
@@ -3989,7 +4922,7 @@
         {{uniquename=0,hash=86bed7427aeaa67bf889ae042c32ded6}{Devereux}{D\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=1c814ca74bbcb2d998f5d1fd41c5cdaf}{Fazio}{F\bibinitperiod}{G.G.}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=0c84ebcd581acfe37ad6ae0c50e1fa28}{Gordon}{G\bibinitperiod}{K.D.}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d2b6952eefe0edc6f50eebb311b01dbd}{Peeters}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=8df8086acd4940926739e47534991c28}{Smith}{S\bibinitperiod}{H.A.}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=355ef130e597f7e1598171a3d95d72fc}{Thilker}{T\bibinitperiod}{D.A.}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=839689f52a57eaadb0155ccfd739c2c6}{Willner}{W\bibinitperiod}{S.P.}{S\bibinitperiod}{}{}{}{}}%
@@ -5381,7 +6314,7 @@
       \field{labelmonth}{10}
       \field{datelabelsource}{}
       \field{labeltitle}{{An almost head-on collision as the origin of two off-centre rings in the Andromeda galaxy}}
-      \field{journaltitle}{\nat}
+      \field{journaltitle}{Nature}
       \field{month}{10}
       \field{title}{{An almost head-on collision as the origin of two off-centre rings in the Andromeda galaxy}}
       \field{volume}{443}
@@ -5393,6 +6326,7 @@
       \verb{eprint}
       \verb astro-ph/0610543
       \endverb
+      \keyw{ref}
     \endentry
     \entry{2006ApJS..162..329B}{article}{}
       \name{labelname}{21}{}{%
@@ -7192,13 +8126,13 @@
     \entry{barmby04b}{inproceedings}{}
       \name{labelname}{4}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=51892caeaaa6c6070804fe85958f4014}{Laine}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=51892caeaaa6c6070804fe85958f4014}{Laine}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=80c96839a29e9c10b07174d85410ed27}{Lacy}{L\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=204eddb15c6b2c21178c9efd5ce63c11}{{IRAC\bibnamedelimb team}}{I\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=51892caeaaa6c6070804fe85958f4014}{Laine}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=51892caeaaa6c6070804fe85958f4014}{Laine}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=80c96839a29e9c10b07174d85410ed27}{Lacy}{L\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=204eddb15c6b2c21178c9efd5ce63c11}{{IRAC\bibnamedelimb team}}{I\bibinitperiod}{}{}{}{}{}{}}%
       }
@@ -9128,43 +10062,12 @@
       \strng{namehash}{60d7c67bee00e42d6ae63f9e6683e0cb}
       \strng{fullhash}{60d7c67bee00e42d6ae63f9e6683e0cb}
       \field{sortinit}{2}
-      \field{extrayear}{1}
       \field{labelyear}{2003}
       \field{datelabelsource}{}
       \field{labeltitle}{{Luminous Extragalactic X-Ray Globular Clusters}}
       \field{booktitle}{IAU Joint Discussion}
       \field{title}{{Luminous Extragalactic X-Ray Globular Clusters}}
       \field{volume}{6}
-      \field{year}{2003}
-      \keyw{unref}
-    \endentry
-    \entry{kong03}{inproceedings}{}
-      \name{labelname}{4}{}{%
-        {{uniquename=1,hash=b4416efd711672cd370d46296bee034c}{Kong}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=2702719d87c82f38e760bb0b2f90b72f}{{di\bibnamedelimb Stefano}}{d\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=39a26d8df06522dd8469b9830e4ec37c}{Friedman}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{uniquename=1,hash=b4416efd711672cd370d46296bee034c}{Kong}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=2702719d87c82f38e760bb0b2f90b72f}{{di\bibnamedelimb Stefano}}{d\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=39a26d8df06522dd8469b9830e4ec37c}{Friedman}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Sydney}%
-      }
-      \strng{namehash}{60d7c67bee00e42d6ae63f9e6683e0cb}
-      \strng{fullhash}{60d7c67bee00e42d6ae63f9e6683e0cb}
-      \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2003}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Luminous Extragalactic X--ray Globular Clusters }}
-      \field{booktitle}{IAU meeting 25}
-      \field{month}{07}
-      \field{title}{{Luminous Extragalactic X--ray Globular Clusters }}
       \field{year}{2003}
       \keyw{unref}
     \endentry
